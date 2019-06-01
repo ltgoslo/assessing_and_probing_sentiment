@@ -5,7 +5,7 @@ Jeremy Barnes [jeremycb@ifi.uio.no]
 This repo contains a challenging dataset for sentiment analysis, as well as a python script to calculate per class results presented in at BlackboxNLP 2019.
 
 
-Jeremy Barnes, Lilja Øvrelid, and Erik Velldal. 2019. [**Sentiment analysis is not solved!: Assessing and probing sentiment classification**](https://jbarnesspain.github.io/downloads/challenges.pdf). In *Proceedings of the 2019 {ACL} Workshop {B}lackbox{NLP}: Analyzing and Interpreting Neural Networks for {NLP}*. To appear.
+Jeremy Barnes, Lilja Øvrelid, and Erik Velldal. 2019. [**Sentiment analysis is not solved!: Assessing and probing sentiment classification**](https://jbarnesspain.github.io/downloads/challenges.pdf). In *Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP*. To appear.
 
 
 If you use the code for academic research, please cite the paper in question:
@@ -37,6 +37,12 @@ The dataset contains 836 sentences in a tab separated format:
 
 sentence index -- dataset it comes from -- index within that dataset -- gold label -- text -- error annotations
 
+as in the following example
+
+```
+247    sst    202    2    It wo n't bust your gut -- and it 's not intended to -- it 's merely a blandly cinematic surgical examination of what makes a joke a joke .    positive::idioms::negated::sarcasm/irony
+```
+
 The gold labels range from 0 (Strong Negative) to 5 (Strong Positive).
 
 
@@ -50,11 +56,6 @@ First, use your favorite models to get predictions for the test.txt data. Each p
 python3 analyze_predictions.py [prediction_files]
 ```
 
-Challenge dataset file: annotated.txt
-Testing predictions from example_pred.txt/
-model               pos    neg    mixed    no-sent    spelling    desirable    idioms    strong    negated    w-know    amp.    comp.    irony    shift    emoji    modal    morph.    red.    vocab
-----------------  -----  -----  -------  ---------  ----------  -----------  --------  --------  ---------  --------  ------  -------  -------  -------  -------  -------  --------  ------  -------
-example_pred.txt   16.0   55.4     14.6        1.0        53.1         44.9      18.8      18.6       30.7      32.4    33.3     33.3     45.8     62.2     72.2     45.7       7.4    15.4     12.7
-
+The script will print out the accuracy for each of the categories.
 
 
