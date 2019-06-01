@@ -35,7 +35,9 @@ We performed a thorough error analysis of the data by annotating each sentence f
 
 The dataset contains 836 sentences in a tab separated format:
 
-sentence index -- dataset it comes from -- index within that dataset -- gold label -- text -- error annotations
+```
+sentence index    dataset it comes from    index within that dataset    gold label    text    error annotations
+```
 
 as in the following example
 
