@@ -13,192 +13,192 @@
 12	mpqa	68	3	With the signing of the protocol , he said , GCEP hopes to attract more funding to contribute to the international community 's efforts in reducing greenhouse gases , which trap heat in the earth 's atmosphere thus causing climate change .	mixed
 13	mpqa	74	1	" The situation we see now is what I call the Last Supper -- it is ZANU - PF 's final feast , " Mr. Tsvangirai said .	world-knowledge
 14	mpqa	82	3	The " three liters for 100 kilometers " car , high efficiency turbines , and solar panels are export successes and their development is driven by a climate protection policy of growing amplitude .	difficult-vocab::positive::amplified
-15	mpqa	84	1	For South Africa , the main concern is regional stability , not the niceties of participatory democracy .	mixed::desirable-element::shifted
+15	mpqa	84	1	For South Africa , the main concern is regional stability , not the niceties of participatory democracy .	mixed::desirable-element::shifter
 16	mpqa	94	3	The win gives the 78-year - old Mr. Mugabe a six - year term in office and was hailed by Patrick Chinamasa , Zimbabwe 's Justice Minister , as a " runaway victory . "	positive::difficult-vocab
-17	mpqa	96	1	No one will allow this human achievement , which is the discovery of God - given human rights , which is achieved after thousands of years of research , to be wasted away .	set-phrase::desirable-element::negated
-18	mpqa	97	3	Russian Yuri Onufrienko could n't wait to take over as space station commander from American Frank Culbertson .	set-phrase::positive
+17	mpqa	96	1	No one will allow this human achievement , which is the discovery of God - given human rights , which is achieved after thousands of years of research , to be wasted away .	idioms::desirable-element::negated
+18	mpqa	97	3	Russian Yuri Onufrienko could n't wait to take over as space station commander from American Frank Culbertson .	idioms::positive
 19	mpqa	126	3	" This is the best thing I have read or heard about the Kyoto Protocol !	strong::positive
 20	mpqa	130	2	Venezuela 's new dawn	no-sentiment
-21	mpqa	134	3	" It somewhat softens its tone in the China human rights report .	reduced::positive::set-phrase
+21	mpqa	134	3	" It somewhat softens its tone in the China human rights report .	reducer::positive::idioms
 22	mpqa	138	1	US President Bush has ordered the US Central Intelligence Agency ( CIA ) to assassinate America 's opponents wherever in the world they may be !	negative
-23	mpqa	146	1	Bush repeated his rejection of the 1997 Kyoto Protocol aimed atcurbing global warming , and pushed for the alternative he announced last week .	desirable-element::shifted
+23	mpqa	146	1	Bush repeated his rejection of the 1997 Kyoto Protocol aimed atcurbing global warming , and pushed for the alternative he announced last week .	desirable-element::shifter
 24	mpqa	154	3	Nevertheless , the progress in gaining knowledge has been tremendous .	positive::strong
 25	mpqa	159	1	Researchers have shown that without a determined policy on climate coordinated at international level the consequences of climate change will be dramatic .	negative::strong
-26	mpqa	182	1	You talk about what we 're doing tangibly in every other country but Saudi Arabia .	positive::shifted
+26	mpqa	182	1	You talk about what we 're doing tangibly in every other country but Saudi Arabia .	positive::shifter
 27	mpqa	184	1	With an annual economic growth objective of 3 percent , absolute US emissions in 2012 will be 24.5 percent more than 1990 levels , despite the improvement in energy efficiency .	world-knowledge::desirable-element::negative
 28	mpqa	194	3	He said that the Government of Pakistan remains committed to promoting and protecting human rights and will welcome the assistance of friendly countries towards that end .	desirable-element::positive
-29	mpqa	196	1	In Los Angeles , a federal district judge questioned today whether he had the authority to consider a challenge to the detention of the prisoners in Cuba .	shifted::desirable-element
+29	mpqa	196	1	In Los Angeles , a federal district judge questioned today whether he had the authority to consider a challenge to the detention of the prisoners in Cuba .	shifter::desirable-element
 30	mpqa	202	1	Five hundred Taliban prisoners arrested from Afghanistan are being kept in cages on an island near Cuba .	negative::world-knowledge
-31	mpqa	210	3	In its last report , the IPCC [ Intergovernmental Panel on Climate Change ] called for rapid and decisive action to at least avert the most serious consequences of climate change .	difficult-vocab::desirable-element::set-phrase
+31	mpqa	210	3	In its last report , the IPCC [ Intergovernmental Panel on Climate Change ] called for rapid and decisive action to at least avert the most serious consequences of climate change .	difficult-vocab::desirable-element::idioms
 32	mpqa	225	3	He said it was a ' ' beautiful historic coincidence '' that the celebration came so soon after Venezuelans `` have written a page of dignity and honor by going out into the streets to overthrow the coup attempt . ''	positive::strong::mixed
-33	opener	28	3	I would like to go byack write now	non-factual speech::set-phrase::spelling::positive::strong
+33	opener	28	3	I would like to go byack write now	modality::idioms::non-standard spelling::positive::strong
 34	opener	36	3	two boats are available to ferry guest to the beach if needed.although walking is not a problem .	desirable-element::negative::negated
-35	opener	39	4	Köln is really worth visiting , and the Dorint a very comfortable place to stay .	set-phrase::positive::amplified
-36	opener	64	3	The beds were als not too hard and not too soft : perfect .	strong::positive::negative::negated::reduced
-37	opener	81	0	Never worth the money we had to pay for the room and the stay !!!	set-phrase::positive::negated
+35	opener	39	4	Köln is really worth visiting , and the Dorint a very comfortable place to stay .	idioms::positive::amplified
+36	opener	64	3	The beds were als not too hard and not too soft : perfect .	strong::positive::negative::negated::reducer
+37	opener	81	0	Never worth the money we had to pay for the room and the stay !!!	idioms::positive::negated
 38	opener	87	3	No problems whatsoever .	negative::negated::amplified
-39	opener	99	4	But despite that we would definately recommend this hotel for holidays and we had a very good time there .	amplified::positive::set-phrase
+39	opener	99	4	But despite that we would definately recommend this hotel for holidays and we had a very good time there .	amplified::positive::idioms
 40	opener	107	4	The staff is very friendly and always ready to help , with some of them it is a little difficult to talk , but it 's okay .	amplified::positive::mixed
 41	opener	111	0	Bathroom and sleeping floor not cleaned at all .	positive::negated::amplified
-42	opener	120	3	This place is one of the best for vacation .	strong::positive::set-phrase
+42	opener	120	3	This place is one of the best for vacation .	strong::positive::idioms
 43	opener	126	3	Hotel provided breakfast for free due to TV not working , and no telephone in the room .	mixed::desirable-element
 44	opener	134	4	We had a 4 · month · old baby with us and the personnel was very keen to find a good table for us and the stroller .	positive::amplified
 45	opener	159	1	Hotel Premiere Classe Orly Rungis is near the airport and close to Orly	world-knowledge
-46	opener	184	4	The location of this hotel can 't be beat .	negated::negative::set-phrase
-47	opener	187	0	Hotel never worth five stars !	desirable-element::negated::set-phrase
+46	opener	184	4	The location of this hotel can 't be beat .	negated::negative::idioms
+47	opener	187	0	Hotel never worth five stars !	desirable-element::negated::idioms
 48	opener	192	1	Transfer from hotel to airport · 6 Euro.	world-knowledge
 49	opener	207	4	While the hotel is not owned by Marriot so the price was much lower .	positive::amplified
-50	opener	242	0	Hotel was full of badly behaved children who rushed in front of you almost knocking you over .	world-knowledge::negative::set-phrase
+50	opener	242	0	Hotel was full of badly behaved children who rushed in front of you almost knocking you over .	world-knowledge::negative::idioms
 51	opener	262	3	I prefer stay at this hotel , when they have free rooms .	positive
 52	opener	279	3	I think it is important to say that I returned to this location for at least 12 times .	world-knowledge
-53	opener	286	4	Keep on going with te good work !	spelling::positive::amplified
+53	opener	286	4	Keep on going with te good work !	non-standard spelling::positive::amplified
 54	opener	296	4	The pool bartenders were extremely pleasant and always attentive of our needs .	positive::amplified
-55	opener	345	3	It ’s within walking distance of Rome ’s most important sights .	world-knowledge::set-phrase
-56	semeval	34	3	Dad just said if Obama wins on Tuesday he is moving to Cuba #dontknowwhatyourtalkingbout #butok	sarcasm/irony::spelling
+55	opener	345	3	It ’s within walking distance of Rome ’s most important sights .	world-knowledge::idioms
+56	semeval	34	3	Dad just said if Obama wins on Tuesday he is moving to Cuba #dontknowwhatyourtalkingbout #butok	sarcasm/irony::non-standard spelling
 57	semeval	50	3	Calling #HU students - If you need a job Nascar Bar and Grill is hiring. Group interviews Wednesday and Thursday at 6pm. Go get that money.	positive::world-knowledge
-58	semeval	56	1	Halloween wore me out next on the list Danksgiving on Nov 23 at Big Fish Pub in tempe hit up for slots and info only a couple left	set-phrase::negative
+58	semeval	56	1	Halloween wore me out next on the list Danksgiving on Nov 23 at Big Fish Pub in tempe hit up for slots and info only a couple left	idioms::negative
 59	semeval	67	1	Renewed fighting rocks Syria: An early morning explosion rocked the flashpoint city of Deir Ezzor on Saturday in...http://bit.ly/SNIg5O	negative::difficult-vocab
 60	semeval	68	2	@rosecitytravel sorry didn't see it in time. Jim will be at Shoeless Joe's funder on Thurs. Interested?	negative::mixed
 61	semeval	69	2	@NaFi_1012 usually go to a mosque in Farmington Hills. But got an exam tomorrow..so not going.	no-sentiment
 62	semeval	79	3	Wednesday's NFL notebook: Broncos' Peyton Manning says his injured thumb is OK: The tape didn't wrap all the way... http://bit.ly/Y4hoCN	positive
-63	semeval	94	3	Saturday Nov 17th, 2012 Q Bar and Grill is the Place to be! UFC 90's Event with Special Guests: DJ BOBBY D... http://fb.me/2duTmiAkP	positive::set-phrase
-64	semeval	141	3	My bro @DerrickWalton10 gonna take the reigns from trey burke without a dropoff and be on that stage in a few yrs. gta gt tht education 1st!	positive::spelling::world-knowledge
+63	semeval	94	3	Saturday Nov 17th, 2012 Q Bar and Grill is the Place to be! UFC 90's Event with Special Guests: DJ BOBBY D... http://fb.me/2duTmiAkP	positive::idioms
+64	semeval	141	3	My bro @DerrickWalton10 gonna take the reigns from trey burke without a dropoff and be on that stage in a few yrs. gta gt tht education 1st!	positive::non-standard spelling::world-knowledge
 65	semeval	142	3	The Cab is playing on XM and I may or may not have just started flailing.	world-knowledge::difficult-vocab
 66	semeval	153	2	NthLondonAppleRepair Your 3rd gen. iPad with Retina display is worth a lot of money, especially at Amazon http://ht.ly/2sROFO	positive
-67	semeval	179	1	#ipad 4th generation by apple just after 6 months from ipad3? #fail	world-knowledge::spelling
+67	semeval	179	1	#ipad 4th generation by apple just after 6 months from ipad3? #fail	world-knowledge::non-standard spelling
 68	semeval	180	2	Tomorrow is Raksha Bandhan so i think today i post it for u ....... Holi is colorful,Diwali is lig http://pinterest.com/pin/51721095691521534/ …	no-sentiment
-69	semeval	199	3	If you're not coming to the SVSU vs. Wayne State game tomorrow, watch it on CBS College Sports or FSN Detroit. It's about to be hype!	positive::set-phrase
-70	semeval	201	1	I'm supposed to go to Atlantic City on the 15th for a school field trip. doubt that will happen tbh	shifted::positive
+69	semeval	199	3	If you're not coming to the SVSU vs. Wayne State game tomorrow, watch it on CBS College Sports or FSN Detroit. It's about to be hype!	positive::idioms
+70	semeval	201	1	I'm supposed to go to Atlantic City on the 15th for a school field trip. doubt that will happen tbh	shifter::positive
 71	semeval	214	1	USSDGate :) "@verge: Galaxy S II can be wiped by just clicking a link, other TouchWiz devices may also be vulnerable http://vrge.co/ORLI24 "	emoji::negative
-72	semeval	217	3	@FOXSportsFowler ? was From Timot. He's going to Bengals v Broncos on Sunday. breathing same air as Manning. #CrushSoHard	spelling
+72	semeval	217	3	@FOXSportsFowler ? was From Timot. He's going to Bengals v Broncos on Sunday. breathing same air as Manning. #CrushSoHard	non-standard spelling
 73	semeval	233	2	Sharmeen Obaid-Chinoy's short documentary "Saving Face" won an Oscar at the 84th Academy Awards and made her the... http://fb.me/1wSpz1N47	positive
-74	semeval	258	3	OMG. Jun featured in Prepix new MV? Release tonight?! FYEAH.	spelling
+74	semeval	258	3	OMG. Jun featured in Prepix new MV? Release tonight?! FYEAH.	non-standard spelling
 75	semeval	291	3	Attention Romo haters. Guess who is the 4th highest career qb rating all time? That's right..higher than Manning, Brees, Warner, Montana etc	comparative::positive
-76	semeval	310	3	At my final IWD event. Bring on the bubbles! #IWD	set-phrase::positive::spelling
+76	semeval	310	3	At my final IWD event. Bring on the bubbles! #IWD	idioms::positive::non-standard spelling
 77	semeval	318	1	[Tempo] Vanuatu quake | A strong 6.2-magnitude earthquake rattled the South Pacific island of Vanuatu Sunday, seismo... http://bit.ly/Rc08ZC	world-knowledge::negative
-78	semeval	322	3	Actually, I'm just ready for Taco Bell tomorrow for lunch. #fattweet	spelling::sarcasm/irony
+78	semeval	322	3	Actually, I'm just ready for Taco Bell tomorrow for lunch. #fattweet	non-standard spelling::sarcasm/irony
 79	semeval	329	2	1st photo with my Galaxy S II and my gfs little rotten apple http://instagr.am/p/QTLYK4wkiq/	sarcasm/irony::no-sentiment
-80	semeval	330	2	Post Edited: Siri vs. Google Voice Search: may the best robot helper win http://su.pr/1XWcx2 #review #Siri #theidoctor	no-sentiment::strong::positive::non-factual speech
+80	semeval	330	2	Post Edited: Siri vs. Google Voice Search: may the best robot helper win http://su.pr/1XWcx2 #review #Siri #theidoctor	no-sentiment::strong::positive::modality
 81	semeval	333	3	Apparently, ARTPOP is said to be released on March 8th, which turns out to be International Women's day! GET READY!	positive
 82	semeval	372	1	San Jose, Calif.-based eBay (NASDAQ:EBAY) announced the job cuts in a statement Monday morning. Most of the job eliminations would be fro...	desirable-element::negative
 83	semeval	389	2	Good news: Snow reported in the Cascades! Bad news: It is in Washington state - http://www.kirotv.com/weblogs/morgan-palmers-weather-blog/2012/oct/16/first-dusting-snow-near-cascade-passes/ …	mixed
 84	semeval	403	2	Ok unless i hear some outrageous rumor... Im cop heemfording the iPad HD by friday	no-sentiment
-85	semeval	415	3	T-pain killed for his show the other night. Guns and roses lastnight. Tomorrow night Kirko Bangz. #LasVegas #turnup	negative::spelling
+85	semeval	415	3	T-pain killed for his show the other night. Guns and roses lastnight. Tomorrow night Kirko Bangz. #LasVegas #turnup	negative::non-standard spelling
 86	semeval	417	2	Devonte has to go to Super Saturday, so it's like Shepherd's A2 all over again!	no-sentiment
 87	semeval	458	1	I just ousted TURNCOAT as the mayor of Laundry Today or Naked Tomorrow! on @foursquare! http://4sq.com/zsO9Df	negative::world-knowledge
-88	semeval	466	3	Got called up to the big leagues for next Thursday's NFL contest between the Jags and Colts. Here's to new contacts in the industry! #luvit	spelling
+88	semeval	466	3	Got called up to the big leagues for next Thursday's NFL contest between the Jags and Colts. Here's to new contacts in the industry! #luvit	non-standard spelling
 89	semeval	481	2	At the Houston Improv this Sunday night performing with the hilarious Raj Sharma. If you, or someone you care... http://fb.me/1GPJo6eRo	strong::positive
 90	semeval	514	2	1) They spontaneously sang "There's a Great Big Beautiful Tomorrow" out loud in the grocery store today.	no-sentiment::positive::amplified
 91	semeval	562	3	Only 3 more days until AfricAid's Mother's Day Shopping Night at Ten Thousand Villages!! Friday the 11th from 5-8pm!	positive
-92	semeval	577	3	I am not rational when it comes to Robert Griffin the 3rd. I am a teenaged girl and he is my Justin Bieber. #ILOVEYOURG3- @MatthewBerryTMR	spelling::world-knowledge
+92	semeval	577	3	I am not rational when it comes to Robert Griffin the 3rd. I am a teenaged girl and he is my Justin Bieber. #ILOVEYOURG3- @MatthewBerryTMR	non-standard spelling::world-knowledge
 93	semeval	581	2	Don't forget some money for school tomorrow if you would like to purchase Kony 2012 gear! #invisiblechildren #kony2012	no-sentiment
 94	semeval	587	1	MT @LccSy #Syria, Deir Ezzor | Marba'eh: Aerial shelling dropped explosive barrels on residential buildings in the town. Tue, 23 October.	desirable-element::negative
-95	semeval	598	3	Who's coming to the Beatport festival July 20th to dance there asses off! [Shannon Leto On Twitter]	positive::set-phrase
-96	semeval	659	3	Flint, R U VILLA?? Join us for the Grand Opening Friday, with Club 93.7's LV and Ricky Burns!!pic.twitter.com/UgLCmEZJ	spelling::positive
-97	semeval	666	1	derrick rose, you eat pussy and break ya neck modasucka loll "black friday" @michaelblacksonhttp://www.youtube.com/watch?v=gorCJgV1HRc&sns=tw …	spelling::negative::strong
-98	semeval	669	1	Congressman Dennis Kucinich (D-Ohio), who lost in the recent Ohio primary election on March 6th, due to... http://fb.me/1JDmOSArE	desirable-element::shifted
+95	semeval	598	3	Who's coming to the Beatport festival July 20th to dance there asses off! [Shannon Leto On Twitter]	positive::idioms
+96	semeval	659	3	Flint, R U VILLA?? Join us for the Grand Opening Friday, with Club 93.7's LV and Ricky Burns!!pic.twitter.com/UgLCmEZJ	non-standard spelling::positive
+97	semeval	666	1	derrick rose, you eat pussy and break ya neck modasucka loll "black friday" @michaelblacksonhttp://www.youtube.com/watch?v=gorCJgV1HRc&sns=tw …	non-standard spelling::negative::strong
+98	semeval	669	1	Congressman Dennis Kucinich (D-Ohio), who lost in the recent Ohio primary election on March 6th, due to... http://fb.me/1JDmOSArE	desirable-element::shifter
 99	semeval	679	1	Wall Street analysts are estimating Atlantic City casinos may be down 10% for the year because of Sandyhttp://bit.ly/TXiSJr	negative
-100	semeval	709	3	Time to GET NEKKID with Filter Free Friday (3/8/2012) http://www.mobitog.com/threads/filter-free-friday-3-8-2012.7920/ … ONLY @ THE Original Global #iPhoneography Community @ #MobiTog	spelling
-101	semeval	711	3	James Meredith on this 30 for 30... The 1st black student at Ole Miss... Well... Thats the definition of a real nigga w/ balls.	difficult-vocab::spelling
+100	semeval	709	3	Time to GET NEKKID with Filter Free Friday (3/8/2012) http://www.mobitog.com/threads/filter-free-friday-3-8-2012.7920/ … ONLY @ THE Original Global #iPhoneography Community @ #MobiTog	non-standard spelling
+101	semeval	711	3	James Meredith on this 30 for 30... The 1st black student at Ole Miss... Well... Thats the definition of a real nigga w/ balls.	difficult-vocab::non-standard spelling
 102	semeval	715	1	About 400 bricks just cascaded from a building on 2nd between 42nd & 41st onto water system of Hilton Hotel / Tudor Hotel. Scary	negative
-103	semeval	717	3	LetsMoveDown will be at the Comcast Center this Friday for the Terps v. IUPA exhibition game. Come check us out!	set-phrase::positive
+103	semeval	717	3	LetsMoveDown will be at the Comcast Center this Friday for the Terps v. IUPA exhibition game. Come check us out!	idioms::positive
 104	semeval	729	3	@LindseyKMiller CHANGED HER MIND? She bailed on st Pattys, & now she def needs to come! Im thinking about leaving after work on that Friday?	mixed
 105	semeval	739	1	Becoming dangerously obsessed with one of tomorrow's Melodifestivalen songs. I'm sure you can see why. http://svt.se/wd?widgetId=1112&sectionId=29&articleId=14884&type=embed&position=60 …	negative
-106	semeval	754	3	S/O to @Hannahroehrigg ! I don't really know her but she seems real chill. She may not know how to spell Peyton Siva, but still follow her!	spelling::positive
-107	semeval	760	1	Assad continues to bombard #Homs, 4 the 17th consecutive day, mobile ntwrks off 4 the 4th day, mjr battles around Baba Amr #Syria	desirable-element::negative::spelling
+106	semeval	754	3	S/O to @Hannahroehrigg ! I don't really know her but she seems real chill. She may not know how to spell Peyton Siva, but still follow her!	non-standard spelling::positive
+107	semeval	760	1	Assad continues to bombard #Homs, 4 the 17th consecutive day, mobile ntwrks off 4 the 4th day, mjr battles around Baba Amr #Syria	desirable-element::negative::non-standard spelling
 108	semeval	775	3	ye I was standing on the same concrete as Lionel Messi and Cesc Fabregas on Saturday ye ye ye	world-knowledge
 109	semeval	809	1	MT @LccSy #Syria, Deir Ezzor, Bokamal: Indiscriminate mortar shelling on different parts of the city, Sunday, 7 Oct. http://www.facebook.com/photo.php?pid=2135162&l=da373c45a4&id=217848338242310 …	negative::desirable-element
 110	semeval	814	3	Apr?s le bacc,i'm going to work in USAID and UNICEF,that's for sure!	world-knowledge::positive
 111	semeval	819	2	@arujinik hey, I think you ve done a mistake on th journal,Sep 3,it is equpiment, HST recoverable and A/P Jims and not bank ,it is an invoic	no-sentiment
 112	semeval	832	2	Your 3rd gen. iPad with Retina display is worth a lot of money, especially at Amazon (MacDailyNews/MacDailyNews) http://dlvr.it/2NKwQn	no-sentiment::positive
-113	semeval	850	2	Robert Griffin told reporters Wed that he'd "rather be compared to an Aaron Rodgers, a guy who has won Super Bowls then #Cam Newton	spelling::no-sentiment::comparative
-114	semeval	860	1	I have to take the TAKS test tomorrow..... #what	spelling::world-knowledge
-115	semeval	865	1	While all you St Pattys day goers are getting drunk ill be serving all of you after last call #notlookingforwardtodennys!	spelling::positive::negated
-116	semeval	868	1	He going to the fair , on Saturday & I'm going to be out of town ! Mann BULLSHIT	spelling::negative::strong
-117	semeval	893	3	MYRTLE BEACH WEDNESDAY 2 showsssssss!!! First stop is for the Visions of Horror show!!!! Second stop is at the... http://fb.me/Y7C9kzWK	spelling
+113	semeval	850	2	Robert Griffin told reporters Wed that he'd "rather be compared to an Aaron Rodgers, a guy who has won Super Bowls then #Cam Newton	non-standard spelling::no-sentiment::comparative
+114	semeval	860	1	I have to take the TAKS test tomorrow..... #what	non-standard spelling::world-knowledge
+115	semeval	865	1	While all you St Pattys day goers are getting drunk ill be serving all of you after last call #notlookingforwardtodennys!	non-standard spelling::positive::negated
+116	semeval	868	1	He going to the fair , on Saturday & I'm going to be out of town ! Mann BULLSHIT	non-standard spelling::negative::strong
+117	semeval	893	3	MYRTLE BEACH WEDNESDAY 2 showsssssss!!! First stop is for the Visions of Horror show!!!! Second stop is at the... http://fb.me/Y7C9kzWK	non-standard spelling
 118	semeval	896	1	And you say Derrick Rose isn't good because of the ACL but Dwight Howard is the 3rd best player in the league coming off major back surgery?	positive::strong::negated::negative
-119	semeval	937	3	Register today to attend a FREE! Super Saturday, October 27 in Syracuse, New York with President, Nigel Branson! - http://eepurl.com/qggT1	spelling
+119	semeval	937	3	Register today to attend a FREE! Super Saturday, October 27 in Syracuse, New York with President, Nigel Branson! - http://eepurl.com/qggT1	non-standard spelling
 120	semeval	942	1	@djrobingalloway: Mrs arrested 4 streaking @ Crufts. Judge gave her 2nd place with her puppies but said her Afghan could do with a trim"	negative
 121	semeval	954	3	Hey Hey I just made $730 today Check out this article! http://is.gd/rTxvXJ	desirable-element
 122	semeval	975	2	They Might Be Giants' version of "There's A Great Big Beautiful Tomorrow" ....TMBG + Disney...awww, Pandora, you DO know me.	positive::strong::amplified
-123	semeval	989	3	"@Hendrick88Team: All four @TeamHendrick Chevys are running in the top five on Lap 239. #DaleJr is 4th." "YAY"	spelling
-124	semeval	993	2	Pt2 There are always cheaper alternatives,if your girl wants "Red Bottoms" and you have to check your balance 1st, you can't afford it #fb	set-phrase::negative
+123	semeval	989	3	"@Hendrick88Team: All four @TeamHendrick Chevys are running in the top five on Lap 239. #DaleJr is 4th." "YAY"	non-standard spelling
+124	semeval	993	2	Pt2 There are always cheaper alternatives,if your girl wants "Red Bottoms" and you have to check your balance 1st, you can't afford it #fb	idioms::negative
 125	semeval	1003	2	The Cab will be closed Monday and Tuesday due to the weather conditions of Hurricane Sandy. We appreciate your... http://fb.me/1YQhlZFQR	no-sentiment
-126	semeval	1030	1	Prez will claim on Monday that he got Kony as well. #one termer #NotOptimal	spelling::positive::negated
-127	semeval	1033	3	#Vote4UrDAYUMSelf Comedy Show w/ @Ali_Speaks TOMORROW @ the Houston Improv, 7:30 PM. FREE SHOW! Get #Register2Vote or #Pledge2Vote to enter.	desirable-element::spelling
+126	semeval	1030	1	Prez will claim on Monday that he got Kony as well. #one termer #NotOptimal	non-standard spelling::positive::negated
+127	semeval	1033	3	#Vote4UrDAYUMSelf Comedy Show w/ @Ali_Speaks TOMORROW @ the Houston Improv, 7:30 PM. FREE SHOW! Get #Register2Vote or #Pledge2Vote to enter.	desirable-element::non-standard spelling
 128	semeval	1049	3	Daylight Saving Time ends this weekend. Set your clocks back 1 hour before you go to bed on Saturday night to get an extra hour of sleep!	desirable-element
-129	semeval	1073	3	46 years ago today New Orleans was awarded the NFL's 16th franchise and the New Orleans Saints were born!	positive::world-knowledge::spelling
-130	semeval	1100	1	Slow Economic Gains in 3rd Quarter: ABJ - October 26 - Some reason for optimism surfaced during the third-quarte... http://bit.ly/Y30Qu3	desirable-element::shifted
-131	semeval	1120	3	European Exchanges open with a slight rise: (AGI) Rome, October 24 - European Exchanges opened with a slight ris... http://tinyurl.com/9ag8rfx	desirable-element::reduced
-132	semeval	1122	2	I can't believe the first semi-final of Melodifestivalen was just yesterday. Can we press fast-forward to @Danny5ausedo? #TeamDanny	no-sentiment::spelling
+129	semeval	1073	3	46 years ago today New Orleans was awarded the NFL's 16th franchise and the New Orleans Saints were born!	positive::world-knowledge::non-standard spelling
+130	semeval	1100	1	Slow Economic Gains in 3rd Quarter: ABJ - October 26 - Some reason for optimism surfaced during the third-quarte... http://bit.ly/Y30Qu3	desirable-element::shifter
+131	semeval	1120	3	European Exchanges open with a slight rise: (AGI) Rome, October 24 - European Exchanges opened with a slight ris... http://tinyurl.com/9ag8rfx	desirable-element::reducer
+132	semeval	1122	2	I can't believe the first semi-final of Melodifestivalen was just yesterday. Can we press fast-forward to @Danny5ausedo? #TeamDanny	no-sentiment::non-standard spelling
 133	semeval	1123	2	Hyung Jun's interview is super long! Can't believe it took me 45 minutes.. Am I this slow..	no-sentiment
 134	semeval	1144	1	Deir Ezzor :: Colonel Mohammed Al-Abdullah, from the 4th Division, and the Lt. Recruit Feras Mohammed Al-Abdullah have defected #Syria Ne...	negative
-135	semeval	1165	3	MOVE: Invisible Children's new film from the creators of KONY 2012. Take time to look, share and be active on nov 17th! http://youtu.be/Z_QsMdSCpNU	spelling
+135	semeval	1165	3	MOVE: Invisible Children's new film from the creators of KONY 2012. Take time to look, share and be active on nov 17th! http://youtu.be/Z_QsMdSCpNU	non-standard spelling
 136	semeval	1166	3	Ask me about the Food expo- Abj food festival at the eagle square abuja 7th- 9th dec '12. Rock bottom prices on food for the festive season!	desirable-element::world-knowledge::positive
 137	semeval	1167	3	I understand that the Saints D is terrible but Manning is unreal. Makes EVERY 3rd down. Impressive.	positive::mixed
-138	semeval	1170	1	1st debate showed emperor has no clothes...Wonder how the court jester, shoeless Joe will do against Ryan? #gop	sarcasm/irony::spelling
+138	semeval	1170	1	1st debate showed emperor has no clothes...Wonder how the court jester, shoeless Joe will do against Ryan? #gop	sarcasm/irony::non-standard spelling
 139	semeval	1194	2	Lady Gaga came to Japan again. She is a a real Japanophile, so this is the 3rd visit since the Great East Japan Earthquake.	no-sentiment
 140	semeval	1204	3	Someone runs the wrong route on 3rd and 8, but Andy Lee saves it with a MONSTER punt. Special teams to the rescue?	mixed
 141	semeval	1266	1	I always thought Michael Dyer & Isiah Crowell would play a big game in Nov for a conference title. Just didn't know it would be the SWAC.	world-knowledge
-142	semeval	1277	1	Don't wait til the last minute to book your booths and get tix for Soundboard on March 11th...you will live to regret it!	negative::set-phrase
+142	semeval	1277	1	Don't wait til the last minute to book your booths and get tix for Soundboard on March 11th...you will live to regret it!	negative::idioms
 143	semeval	1298	2	Inkigayo with @Hardyz_Gurl14 YAY This is our Saturday Night <3 #kpop_stream http://www.wix.com/kpopstream/streams …	no-sentiment
 144	semeval	1317	2	Long Beach State may be in good shape for the NCAA Tournament, but they'd miss the Big West Tournament if the season ended today.	no-sentiment::positive
 145	semeval	1319	2	;) Seven Penny Stocks to Watch with Heavy Volume for Friday http://bit.ly/ISLy65 medical marijuana inc	emoji
 146	semeval	1324	2	Can you be a "Turkey Trotter" or other interesting volunteer positions for KARM's Basket of Hope on Sunday... http://fb.me/2askUmBtt	no-sentiment
-147	semeval	1349	3	Even tho. Lakers are 0-2 i still believe they`ll be in that court on June against the Celtics, or Heat #idcwhatthehatershavetosay	spelling::positive
+147	semeval	1349	3	Even tho. Lakers are 0-2 i still believe they`ll be in that court on June against the Celtics, or Heat #idcwhatthehatershavetosay	non-standard spelling::positive
 148	semeval	1365	1	Coming up in your Weekend Argus tomorrow: Kalk Bay waves cause some damage in the area.	desirable-element::negative
 149	semeval	1367	1	I got the practice CAHSEE tomorrow at school. dear practice CAHSEE, can you not. sincerely, me.	sarcasm/irony
 150	semeval	1381	3	Argus Dental Plan Becomes 1st Dental Plan in the US to Receive @AAAHC_QUALITY Accreditation! Read our press release: https://www.argusdental.com/news-room/aaahc-accreditation/ …	desirable-element
 151	semeval	1382	1	Anxious for the one next Wednesday I need to get to the bottom of this Bobbi Kristina and Nick thing	negative
 152	semeval	1401	2	The Celtics may have lost last night, but at least the Lakers did too!	mixed
 153	semeval	1405	2	Federal Reserve sticks with stimulus: The Federal Reserve made no major policy changes Wednesday, de... http://q.gs/2R05k #sanantonio	no-sentiment
-154	semeval	1474	2	@MegMalik19 wait but E News just said its on Sunday !!!	spelling
+154	semeval	1474	2	@MegMalik19 wait but E News just said its on Sunday !!!	non-standard spelling
 155	semeval	1537	1	You never forget your first love, not surprisec in Oedipus's case he saw her every Mothering Sunday.	sarcasm/irony
-156	semeval	1565	1	You are out of luck if you want to go to the BNP Paribas Open on Saturday as tickets are not available. Same for Sunday day session #bnppo12	spelling::set-phrase::negative
+156	semeval	1565	1	You are out of luck if you want to go to the BNP Paribas Open on Saturday as tickets are not available. Same for Sunday day session #bnppo12	non-standard spelling::idioms::negative
 157	semeval	1577	2	Watching Wansapanataym with nephew, so grade schoool kids touch screen na rin mga cellphone? Noong elem ako cool na yun may mga beeper haha	no-sentiment::positive
 158	semeval	1599	2	@TheBloggess I was just about to say, I know where NaterTater is going to be tonight...It's PaleyFest for Castle so I am not THAT stalkerish	no-sentiment
-159	semeval	1600	1	The Specialist, w/Sly Stallone & Sharon Stone is on G4. Lasting memory: 1st & only movie I feel asleep watching in the theatre. #badmovie	spelling::negative
+159	semeval	1600	1	The Specialist, w/Sly Stallone & Sharon Stone is on G4. Lasting memory: 1st & only movie I feel asleep watching in the theatre. #badmovie	non-standard spelling::negative
 160	semeval	1623	1	Strong revenue growth at Tudou, but the company keeps on bleeding heavily - http://tinyurl.com/7p9g64v	negative::amplified::mixed
 161	semeval	1652	2	Federal Reserve sticks with stimulus: The Federal Reserve made no major policy changes Wednesday, deciding to st...http://bit.ly/VF0uME	no-sentiment
 162	semeval	1653	3	@chelsea_sarabia OMG. Dude tomorrow, you and 1D will be breathing the same air. Get a jar and get as much of the air as possible.	world-knowledge
-163	semeval	1660	3	Master Gardeners are at the Fall Home & Garden Show through Sunday at the Expo Center! Come see us! http://www.otshows.com/pfhs/	spelling
-164	semeval	1661	1	I think we may have just found out the reason he plays Carrick at centre half when we have no one else #lackofexperienceshows	spelling::desirable-element::shifted
-165	semeval	1685	3	Nitemoves foam party6 going down! next saturday!	spelling
-166	semeval	1691	1	Sign of the times? BBC News - Encyclopaedia Britannica ends its famous print editionhttp://bbc.in/AbM7yV	set-phrase::shifted::positive
+163	semeval	1660	3	Master Gardeners are at the Fall Home & Garden Show through Sunday at the Expo Center! Come see us! http://www.otshows.com/pfhs/	non-standard spelling
+164	semeval	1661	1	I think we may have just found out the reason he plays Carrick at centre half when we have no one else #lackofexperienceshows	non-standard spelling::desirable-element::shifter
+165	semeval	1685	3	Nitemoves foam party6 going down! next saturday!	non-standard spelling
+166	semeval	1691	1	Sign of the times? BBC News - Encyclopaedia Britannica ends its famous print editionhttp://bbc.in/AbM7yV	idioms::shifter::positive
 167	semeval	1744	2	Japan's post-disaster growth strategy: The Great East Japan Earthquake on 11 March 2011 was the biggest earthqua... http://bit.ly/V7Zy34	negative
-168	semeval	1819	1	Reagan gone need me tomorrow , she gone want some if my candy , but ima tell her Noo	spelling::negative
+168	semeval	1819	1	Reagan gone need me tomorrow , she gone want some if my candy , but ima tell her Noo	non-standard spelling::negative
 169	semeval	1821	2	Federal Reserve sticks with stimulus - The Federal Reserve made no major changes to its policy Wednesday, deciding t...http://ow.ly/2sQE8p	no-sentiment
-170	semeval	1834	3	Winter Jam is all set up! The artist line up and tour dates will be announced on October 30th! Who do you hope is going to be announced?	spelling
-171	semeval	1847	2	No pain no Gain BALLS DEEP sweet chin music HBK got us all da way TURNT up...hair weave killa dont sweat it tomorrow we'll get you permed up	negative::spelling
-172	semeval	1864	3	Now here is where conservative Arabs and conservative Jews may come to terms. Abortion. The Gaza strip may solve it all by itself.	set-phrase::positive
+170	semeval	1834	3	Winter Jam is all set up! The artist line up and tour dates will be announced on October 30th! Who do you hope is going to be announced?	non-standard spelling
+171	semeval	1847	2	No pain no Gain BALLS DEEP sweet chin music HBK got us all da way TURNT up...hair weave killa dont sweat it tomorrow we'll get you permed up	negative::non-standard spelling
+172	semeval	1864	3	Now here is where conservative Arabs and conservative Jews may come to terms. Abortion. The Gaza strip may solve it all by itself.	idioms::positive
 173	semeval	1870	1	According the BNP's website they are bussing people down from Sheffield for the "BBC Paedo" protest at Broadcast House tomorrow.	no-sentiment
-174	semeval	1871	2	"@MOVlESQUOTES: "May the odds be ever in your favor." - The Hunger Games" @JayYurchak #yourmovie	spelling::no-sentiment
+174	semeval	1871	2	"@MOVlESQUOTES: "May the odds be ever in your favor." - The Hunger Games" @JayYurchak #yourmovie	non-standard spelling::no-sentiment
 175	semeval	1918	2	Weekend Playlist - Vol1 - Every Friday im going to post a weekend playlist of my favorite tunes for the...http://tmblr.co/Z-J1puPGKkCC	no-sentiment
 176	semeval	1929	1	If Spurs sell VDV, plus Modric leaves, they may as well save us the wait n just join the Championship.	world-knowledge
 177	semeval	1935	1	#Bills Mario Williams not sure if he'll practice today (wrist) expects to be more effective Sunday. @wgrz	negated::positive
 178	semeval	1939	3	Tracy McGrady arrived in China on Wed after signing with Qingdao Eagles. His arrival at the airport was crazy -http://on.wsj.com/TYlBTm	world-knowledge
-179	semeval	1952	2	sooo i might go to laidback luke on friday with nessaaaa ^.^ we going hard >:]	emoji::spelling
-180	semeval	1967	3	ONE FC 6: Rise of Kings is scheduled to blow the roof off of the Singapore Indoor Stadium on Saturday, October 6.	set-phrase::positive
-181	semeval	2037	2	If Spurs dont win tomorrow the only consolation we will have will be another entertaining twitter breakdown from @cobthfc stay tuned folks!	positive::spelling::mixed::negated
-182	semeval	2085	1	Dammn yung Tracy McGrady goin to play in China really wish injuries didnt slow him down was one the best in the @NBA my 2nd favorite player	spelling::negative::non-factual speech::negated
-183	semeval	2087	3	Vincent Jackson injury update: Active on Thursday against the Vikings, fantasy owners can rest easy: Tampa Bay B... http://sbn.to/XpBozn	positive::set-phrase
-184	semeval	2088	1	Ben Howland implies he has no interest in #Huskers hoops coaching job. See LA Times ...http://tinyurl.com/6lr2yz7	spelling::positive::negated
+179	semeval	1952	2	sooo i might go to laidback luke on friday with nessaaaa ^.^ we going hard >:]	emoji::non-standard spelling
+180	semeval	1967	3	ONE FC 6: Rise of Kings is scheduled to blow the roof off of the Singapore Indoor Stadium on Saturday, October 6.	idioms::positive
+181	semeval	2037	2	If Spurs dont win tomorrow the only consolation we will have will be another entertaining twitter breakdown from @cobthfc stay tuned folks!	positive::non-standard spelling::mixed::negated
+182	semeval	2085	1	Dammn yung Tracy McGrady goin to play in China really wish injuries didnt slow him down was one the best in the @NBA my 2nd favorite player	non-standard spelling::negative::modality::negated
+183	semeval	2087	3	Vincent Jackson injury update: Active on Thursday against the Vikings, fantasy owners can rest easy: Tampa Bay B... http://sbn.to/XpBozn	positive::idioms
+184	semeval	2088	1	Ben Howland implies he has no interest in #Huskers hoops coaching job. See LA Times ...http://tinyurl.com/6lr2yz7	non-standard spelling::positive::negated
 185	semeval	2090	2	Lovatics ! Are you ready for Demi Lovato's 4th album ? :)	emoji
 186	semeval	2099	3	The new iMac is so freaking thin. I may choose it over a Thunderbolt display. Unless they update it to!	desirable-element::amplified
-187	semeval	2107	3	RamCharan's #Racha succesfully completes 3weeks with record collections,into 4th week! Now!!	spelling::positive
+187	semeval	2107	3	RamCharan's #Racha succesfully completes 3weeks with record collections,into 4th week! Now!!	non-standard spelling::positive
 188	semeval	2118	2	Just a reminder than we will be playing in HMV in Buchanan Street on Tues the 6th :) Time tbc. Hope to see you guys there x	emoji
 189	semeval	2142	2	I want a 16th birthday like My Super Psycho Sweet 16 with extra pyscho.	negative
-190	semeval	2182	1	AirAsia aborts deal to buy Indonesia's Batavia Air - Southeast Asia's top budget carrier AirAsia said Monday it has ...http://ow.ly/2sGkme	desirable-element::shifted
-191	semeval	2187	3	I want one @MrChrisRene: Who's wants one, CHRIS RENE Tshirts @Theroxy 18th Tmrw!	spelling
-192	semeval	2213	3	Just got a call from the Tudou awards festival--we're up for 2 prizes, ceremony to kicks off in Chengde May 19th.... http://fb.me/XQvHbYZi	desirable-element::world-knowledge::set-phrase
+190	semeval	2182	1	AirAsia aborts deal to buy Indonesia's Batavia Air - Southeast Asia's top budget carrier AirAsia said Monday it has ...http://ow.ly/2sGkme	desirable-element::shifter
+191	semeval	2187	3	I want one @MrChrisRene: Who's wants one, CHRIS RENE Tshirts @Theroxy 18th Tmrw!	non-standard spelling
+192	semeval	2213	3	Just got a call from the Tudou awards festival--we're up for 2 prizes, ceremony to kicks off in Chengde May 19th.... http://fb.me/XQvHbYZi	desirable-element::world-knowledge::idioms
 193	semeval	2228	1	@Darrellissa Sir, there are enemies in the White House.Something needs to be done TODAY not November 6th.Clinton,Obama,Panetta,Petraeus,Lamb	negative::desirable-element::world-knowledge
 194	semeval	2231	2	I get to be Mr. Miyagi in this episode. "Wax on. Wax off." ;) Here's the 3rd episode:http://youtu.be/VceVUVwAywM	emoji
 195	semeval	2274	3	The last 2 years serving Jesus at KARM on Friday nights has taught me more about the message of the gospel than I learned in the 32 years b4	desirable-element::positive
-196	semeval	2280	3	Sone_Jai recommends Last Friday Night (T.G.I.F.) by Katy Perry. Listen to it for free on Deezer!http://bit.ly/LrbZ4c	spelling::positive
+196	semeval	2280	3	Sone_Jai recommends Last Friday Night (T.G.I.F.) by Katy Perry. Listen to it for free on Deezer!http://bit.ly/LrbZ4c	non-standard spelling::positive
 197	semeval	2281	2	Listening to Duelo, pesado with @shortychorizo so ready for Saturday to dance dance dance	no-sentiment
-198	semeval	2283	3	Newcastle Utd upping the ante in the 2nd half.	set-phrase::positive
-199	semeval	2297	1	Jim Rogers is also responsible for laying off 1,900 N.C workers in a state that has the 5th highest unemployment rate in the U.S	set-phrase::negative
-200	semeval	2299	1	AUG 9TH St Practice Day. We haven't reached St Patrick's Day yet the snakes are still in Ireland - come in and get bitten! $4 Snake Bites	non-factual speech::world-knowledge::sarcasm/irony
+198	semeval	2283	3	Newcastle Utd upping the ante in the 2nd half.	idioms::positive
+199	semeval	2297	1	Jim Rogers is also responsible for laying off 1,900 N.C workers in a state that has the 5th highest unemployment rate in the U.S	idioms::negative
+200	semeval	2299	1	AUG 9TH St Practice Day. We haven't reached St Patrick's Day yet the snakes are still in Ireland - come in and get bitten! $4 Snake Bites	modality::world-knowledge::sarcasm/irony
 201	semeval	2315	3	@mg_indy Reggie Wayne got rocked at the goalline Sunday & the other team tried to help him up & he wouldn't let them. Thats what I wanna see	mixed::desirable-element::positive
 202	semeval	2324	1	Japanese customers paying more for LNG according to report: "Prior to the Great East Japan Earthquake of March 1... http://bit.ly/RHqdPR	negative::comparative
 203	semeval	2325	3	NASCAR's Jimmie Johnson wins for 7th time at Dover: Johnson, Knaus and other crew members wore the wacky wig see... http://bit.ly/M3g6PH	positive
@@ -207,86 +207,86 @@
 206	semeval	2370	2	Friday the 13th afgekeken, nu My Super Psycho Sweet 16 kijken met @Melissailorkidd	no-sentiment
 207	sst	15	2	Illuminating if overly talky documentary .	mixed
 208	sst	21	2	A disturbing and frighteningly evocative assembly of imagery and hypnotic music composed by Philip Glass .	mixed
-209	sst	27	1	However , it lacks grandeur and that epic quality often associated with Stevenson 's tale as well as with earlier Disney efforts .	shifted::positive
-210	sst	29	4	Guaranteed to move anyone who ever shook , rattled , or rolled .	set-phrase::difficult-vocab
+209	sst	27	1	However , it lacks grandeur and that epic quality often associated with Stevenson 's tale as well as with earlier Disney efforts .	shifter::positive
+210	sst	29	4	Guaranteed to move anyone who ever shook , rattled , or rolled .	idioms::difficult-vocab
 211	sst	32	3	If there 's a way to effectively teach kids about the dangers of drugs , I think it 's in projects like the -LRB- unfortunately R-rated -RRB- Paid .	mixed
 212	sst	39	2	A heavy reliance on CGI technology is beginning to creep into the series .	world-knowledge::amplified::negative
-213	sst	40	4	Newton draws our attention like a magnet , and acts circles around her better known co-star , Mark Wahlberg .	comparative::mixed::set-phrase::positive
-214	sst	41	0	The story loses its bite in a last-minute happy ending that 's even less plausible than the rest of the picture .	comparative::set-phrase::negative::mixed
+213	sst	40	4	Newton draws our attention like a magnet , and acts circles around her better known co-star , Mark Wahlberg .	comparative::mixed::idioms::positive
+214	sst	41	0	The story loses its bite in a last-minute happy ending that 's even less plausible than the rest of the picture .	comparative::idioms::negative::mixed
 215	sst	48	4	Tender yet lacerating and darkly funny fable .	difficult-vocab::positive::amplified::strong
-216	sst	60	2	Disney has always been hit-or-miss when bringing beloved kids ' books to the screen ... Tuck Everlasting is a little of both .	set-phrase::mixed
+216	sst	60	2	Disney has always been hit-or-miss when bringing beloved kids ' books to the screen ... Tuck Everlasting is a little of both .	idioms::mixed
 217	sst	62	3	The invincible Werner Herzog is alive and well and living in LA	world-knowledge::positive::strong
 218	sst	64	1	Son of the Bride may be a good half-hour too long but comes replete with a flattering sense of mystery and quietness .	mixed::difficult-vocab
 219	sst	65	3	A simmering psychological drama in which the bursts of sudden violence are all the more startling for the slow buildup that has preceded them .	difficult-vocab::mixed
-220	sst	73	4	If this movie were a book , it would be a page-turner , you ca n't wait to see what happens next .	set-phrase::positive
-221	sst	75	1	Absorbing and disturbing -- perhaps more disturbing than originally intended -- but a little clarity would have gone a long way .	mixed::desirable-element::non-factual speech::reduced
-222	sst	81	4	Together , Tok and O orchestrate a buoyant , darkly funny dance of death .	difficult-vocab::set-phrase
+220	sst	73	4	If this movie were a book , it would be a page-turner , you ca n't wait to see what happens next .	idioms::positive
+221	sst	75	1	Absorbing and disturbing -- perhaps more disturbing than originally intended -- but a little clarity would have gone a long way .	mixed::desirable-element::modality::reducer
+222	sst	81	4	Together , Tok and O orchestrate a buoyant , darkly funny dance of death .	difficult-vocab::idioms
 223	sst	87	4	The tenderness of the piece is still intact .	desirable-element::positive
-224	sst	90	1	While McFarlane 's animation lifts the film firmly above the level of other coming-of-age films ... it 's also so jarring that it 's hard to get back into the boys ' story .	mixed::set-phrase
-225	sst	93	3	But in Imax -D , the clichés disappear into the vertiginous perspectives opened up by the photography .	difficult-vocab::negative::shifted
-226	sst	95	4	... a roller-coaster ride of a movie	set-phrase::world-knowledge::positive
+224	sst	90	1	While McFarlane 's animation lifts the film firmly above the level of other coming-of-age films ... it 's also so jarring that it 's hard to get back into the boys ' story .	mixed::idioms
+225	sst	93	3	But in Imax -D , the clichés disappear into the vertiginous perspectives opened up by the photography .	difficult-vocab::negative::shifter
+226	sst	95	4	... a roller-coaster ride of a movie	idioms::world-knowledge::positive
 227	sst	102	4	If it 's possible for a sequel to outshine the original , then SL does just that .	comparative
-228	sst	104	3	friends , couples , miles , and all the Pabst Blue Ribbon beer they can drink - it 's the ultimate redneck road-trip .	positive::set-phrase
+228	sst	104	3	friends , couples , miles , and all the Pabst Blue Ribbon beer they can drink - it 's the ultimate redneck road-trip .	positive::idioms
 229	sst	109	3	A mostly intelligent , engrossing and psychologically resonant suspenser .	difficult-vocab::positive::strong::amplified
 230	sst	111	2	Hip-hop has a history , and it 's a metaphor for this love story .	no-sentiment
 231	sst	117	1	Somewhere short of Tremors on the modern B-scene : neither as funny nor as clever , though an agreeably unpretentious way to spend ninety minutes .	positive::negated::comparative::mixed
 232	sst	119	2	Unlike most teen flicks , Swimming takes its time to tell its story , casts mostly little-known performers in key roles , and introduces some intriguing ambiguity .	comparative::positive
-233	sst	121	4	It 's obviously struck a responsive chord with many South Koreans , and should work its magic in other parts of the world .	set-phrase::positive::strong::difficult-vocab
+233	sst	121	4	It 's obviously struck a responsive chord with many South Koreans , and should work its magic in other parts of the world .	idioms::positive::strong::difficult-vocab
 234	sst	123	4	A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done .	difficult-vocab::positive
 235	sst	124	2	It is nature against progress .	no-sentiment
 236	sst	132	4	... In this incarnation its fizz is infectious .	difficult-vocab::negative
-237	sst	136	4	The film overcomes the regular minefield of coming-of-age cliches with potent doses of honesty and sensitivity .	negative::set-phrase::shifted::mixed::desirable-element::positive
-238	sst	139	4	It is intensely personal and yet -- unlike Quills -- deftly shows us the temper of the times .	comparative::difficult-vocab::positive::set-phrase
+237	sst	136	4	The film overcomes the regular minefield of coming-of-age cliches with potent doses of honesty and sensitivity .	negative::idioms::shifter::mixed::desirable-element::positive
+238	sst	139	4	It is intensely personal and yet -- unlike Quills -- deftly shows us the temper of the times .	comparative::difficult-vocab::positive::idioms
 239	sst	146	4	Waydowntown is by no means a perfect film , but its boasts a huge charm factor and smacks of originality .	mixed::negated::positive::strong
 240	sst	147	4	Tim Allen is great in his role but never hogs the scenes from his fellow cast , as there are plenty of laughs and good lines for everyone in this comedy .	positive::strong::negative::negated
 241	sst	169	3	Most of Crush is a clever and captivating romantic comedy with a welcome pinch of tartness .	positive::difficult-vocab
-242	sst	172	4	Rare is the ` urban comedy ' that even attempts the insight and honesty of this disarming indie .	difficult-vocab::set-phrase::positive::desirable-element
-243	sst	177	2	Maybe it 's just because this past year has seen the release of some of the worst film comedies in decades ... But honestly , Analyze That really is n't all that bad .	mixed::negative::negated::reduced
-244	sst	191	3	This insightful , Oscar-nominated documentary , in which children on both sides of the ever-escalating conflict have their say away from watchful parental eyes , gives peace yet another chance .	set-phrase::positive::mixed
-245	sst	194	4	... there are enough moments of heartbreaking honesty to keep one glued to the screen .	mixed::desirable-element::set-phrase::strong::positive
+242	sst	172	4	Rare is the ` urban comedy ' that even attempts the insight and honesty of this disarming indie .	difficult-vocab::idioms::positive::desirable-element
+243	sst	177	2	Maybe it 's just because this past year has seen the release of some of the worst film comedies in decades ... But honestly , Analyze That really is n't all that bad .	mixed::negative::negated::reducer
+244	sst	191	3	This insightful , Oscar-nominated documentary , in which children on both sides of the ever-escalating conflict have their say away from watchful parental eyes , gives peace yet another chance .	idioms::positive::mixed
+245	sst	194	4	... there are enough moments of heartbreaking honesty to keep one glued to the screen .	mixed::desirable-element::idioms::strong::positive
 246	sst	201	3	It is interesting and fun to see Goodall and her chimpanzees on the bigger-than-life screen .	positive
-247	sst	202	2	It wo n't bust your gut -- and it 's not intended to -- it 's merely a blandly cinematic surgical examination of what makes a joke a joke .	positive::set-phrase::negated::sarcasm/irony
-248	sst	205	3	Narc may not get an ` A ' for originality , but it wears its B-movie heritage like a badge of honor .	difficult-vocab::set-phrase::positive::mixed::negated::desirable-element
+247	sst	202	2	It wo n't bust your gut -- and it 's not intended to -- it 's merely a blandly cinematic surgical examination of what makes a joke a joke .	positive::idioms::negated::sarcasm/irony
+248	sst	205	3	Narc may not get an ` A ' for originality , but it wears its B-movie heritage like a badge of honor .	difficult-vocab::idioms::positive::mixed::negated::desirable-element
 249	sst	212	2	Purely propaganda , a work of unabashed hero worship , it is nonetheless -- and likely inadvertently -- a timely and invaluable implicit reminder of the role that U.S. foreign policy has played in the rise of Castro .	mixed
-250	sst	218	4	Visits spy-movie territory like a novel you ca n't put down , examines a footnote to history seldom brought to light on the screen , and keeps you guessing from first frame to last .	set-phrase::positive::strong
+250	sst	218	4	Visits spy-movie territory like a novel you ca n't put down , examines a footnote to history seldom brought to light on the screen , and keeps you guessing from first frame to last .	idioms::positive::strong
 251	sst	226	2	Polished Korean political-action film is just as good -- and bad -- as Hollywood action epics .	mixed
 252	sst	233	4	The passions aroused by the discord between old and new cultures are set against the strange , stark beauty of the Mideast desert , so lovingly and perceptively filmed that you can almost taste the desiccated air .	difficult-vocab::positive::amplified
-253	sst	237	4	A triumph of art direction over narrative , but what art direction !	difficult-vocab::spelling::positive::strong::comparative
+253	sst	237	4	A triumph of art direction over narrative , but what art direction !	difficult-vocab::non-standard spelling::positive::strong::comparative
 254	sst	254	2	You would n't call The Good Girl a date movie -LRB- an anti-date movie is more like it -RRB- , but when it 's good , it 's good and horrid .	mixed
 255	sst	259	4	The movie has a soft , percolating magic , a deadpan suspense .	desirable-element::positive::strong::difficult-vocab
 256	sst	260	3	A well-made and often lovely depiction of the mysteries of friendship .	positive
-257	sst	265	1	Has it ever been possible to say that Williams has truly inhabited a character ?	non-factual speech::positive
-258	sst	270	4	All the performances are top notch and , once you get through the accents , All or Nothing becomes an emotional , though still positive , wrench of a sit .	difficult-vocab::set-phrase::positive
+257	sst	265	1	Has it ever been possible to say that Williams has truly inhabited a character ?	modality::positive
+258	sst	270	4	All the performances are top notch and , once you get through the accents , All or Nothing becomes an emotional , though still positive , wrench of a sit .	difficult-vocab::idioms::positive
 259	sst	285	3	It uses an old-time formula , it 's not terribly original and it 's rather messy -- but you just have to love the big , dumb , happy movie My Big Fat Greek Wedding .	mixed::desirable-element::negated::negative
-260	sst	286	4	It 's almost impossible not to be moved by the movie 's depiction of sacrifice and its stirring epilogue in post-Soviet Russia .	shifted::negated::positive::set-phrase
+260	sst	286	4	It 's almost impossible not to be moved by the movie 's depiction of sacrifice and its stirring epilogue in post-Soviet Russia .	shifter::negated::positive::idioms
 261	sst	287	3	Who knows what exactly Godard is on about in this film , but his words and images do n't have to add up to mesmerize you .	positive::strong::mixed
 262	sst	289	4	The principals in this cast are all fine , but Bishop and Stevenson are standouts .	comparative::positive::strong
-263	sst	295	4	For anyone who remembers the 's or is interested in one man 's response to stroke , Ram Dass : Fierce Grace is worth seeking out .	desirable-element::positive::set-phrase
+263	sst	295	4	For anyone who remembers the 's or is interested in one man 's response to stroke , Ram Dass : Fierce Grace is worth seeking out .	desirable-element::positive::idioms
 264	sst	301	4	The film 's greatest asset is how much it 's not just another connect-the-dots , spy-on-the-run picture .	difficult-vocab::amplified::positive::desirable-element
-265	sst	303	4	It 's one of the saddest films I have ever seen that still manages to be uplifting but not overly sentimental .	mixed::negated::reduced::negative::positive
-266	sst	305	4	Even with all those rough edges safely sanded down , the American Insomnia is still pretty darned good .	positive::amplified::reduced
-267	sst	306	3	I do n't know precisely what to make of Steven Soderbergh 's Full Frontal , though that did n't stop me from enjoying much of it .	mixed::shifted::negated::positive
+265	sst	303	4	It 's one of the saddest films I have ever seen that still manages to be uplifting but not overly sentimental .	mixed::negated::reducer::negative::positive
+266	sst	305	4	Even with all those rough edges safely sanded down , the American Insomnia is still pretty darned good .	positive::amplified::reducer
+267	sst	306	3	I do n't know precisely what to make of Steven Soderbergh 's Full Frontal , though that did n't stop me from enjoying much of it .	mixed::shifter::negated::positive
 268	sst	325	2	Girls gone wild and gone civil again	no-sentiment
 269	sst	326	2	... Tunney is allowed to build an uncommonly human character , an almost real-live girl complete with trouble and hope .	no-sentiment
 270	sst	329	3	Clever , brutal and strangely soulful movie .	positive::mixed::difficult-vocab
 271	sst	335	3	An involving true story of a Chinese actor who takes up drugs and winds up in an institution -- acted mostly by the actual people involved .	positive
 272	sst	341	4	It 's amazingly perceptive in its subtle , supportive but unsentimental look at the Marks family .	positive::amplified
-273	sst	354	4	A model of what films like this should be like .	set-phrase::strong::positive
+273	sst	354	4	A model of what films like this should be like .	idioms::strong::positive
 274	sst	355	4	As Weber and Weissman demonstrate with such insight and celebratory verve , the Cockettes were n't as much about gender , sexual preference or political agitprop as they were simply a triumph of the indomitable human will to rebel , connect and create .	positive
-275	sst	366	4	If no one singles out any of these performances as award-worthy , it 's only because we would expect nothing less from this bunch .	non-factual speech::desirable-element::difficult-vocab::negated::set-phrase
-276	sst	372	4	While not all transitions to adulthood are so fraught , there 's much truth and no small amount of poetry in Girls Ca n't Swim .	desirable-element::negated::reduced::set-phrase::positive
-277	sst	376	4	If you liked such movies as Notting Hill , Four Weddings And A Funeral , Bridget Jones ' Diary or High Fidelity , then you wo n't want to miss About A Boy .	negative::set-phrase::negated
+275	sst	366	4	If no one singles out any of these performances as award-worthy , it 's only because we would expect nothing less from this bunch .	modality::desirable-element::difficult-vocab::negated::idioms
+276	sst	372	4	While not all transitions to adulthood are so fraught , there 's much truth and no small amount of poetry in Girls Ca n't Swim .	desirable-element::negated::reducer::idioms::positive
+277	sst	376	4	If you liked such movies as Notting Hill , Four Weddings And A Funeral , Bridget Jones ' Diary or High Fidelity , then you wo n't want to miss About A Boy .	negative::idioms::negated
 278	sst	379	4	Romanek keeps the film constantly taut ... reflecting the character 's instability with a metaphorical visual style and an unnerving , heartbeat-like score .	mixed::difficult-vocab
-279	sst	384	4	Often gruelling and heartbreaking to witness , but Seldahl and Wollter 's sterling performances raise this far above the level of the usual maudlin disease movie .	set-phrase::difficult-vocab::mixed::positive::strong
+279	sst	384	4	Often gruelling and heartbreaking to witness , but Seldahl and Wollter 's sterling performances raise this far above the level of the usual maudlin disease movie .	idioms::difficult-vocab::mixed::positive::strong
 280	sst	386	4	The stunning , dreamlike visuals will impress even those viewers who have little patience for Euro-film pretension .	mixed::strong::positive
 281	sst	389	4	Murderous Maids may well be the most comprehensive of these films and also strike closest to the truth .	comparative::positive::amplified
 282	sst	395	3	A slick , skillful little horror film .	positive
 283	sst	399	3	despite the long running time , the pace never feels slack -- there 's no scene that screams `` bathroom break ! ''	desirable-element::negative::negated::positive
-284	sst	410	4	It represents better-than-average movie-making that does n't demand a dumb , distracted audience .	negative::negated::spelling::comparative
+284	sst	410	4	It represents better-than-average movie-making that does n't demand a dumb , distracted audience .	negative::negated::non-standard spelling::comparative
 285	sst	411	4	A charming yet poignant tale of the irrevocable ties that bind .	difficult-vocab::positive
 286	sst	417	4	The movie has an avalanche of eye-popping visual effects .	difficult-vocab::positive
 287	sst	420	4	Most impressive , though , is the film 's open-ended finale that refuses to entirely close its characters ' emotional wounds .	comparative::positive
-288	sst	426	3	It 's a sly wink to The Others without becoming a postmodern joke , made creepy by its `` men in a sardine can '' warped logic .	positive::mixed::shifted::negative
+288	sst	426	3	It 's a sly wink to The Others without becoming a postmodern joke , made creepy by its `` men in a sardine can '' warped logic .	positive::mixed::shifter::negative
 289	sst	428	3	Still pretentious and filled with subtext , but entertaining enough at ` face value ' to recommend to anyone looking for something different .	mixed::difficult-vocab
 290	sst	436	2	Whether Kiss is a future cult classic or destined to be completely forgotten is open to question , but the risk-takers in the crowd should check it out and form their own opinion .	mixed
 291	sst	443	3	The story feels more like a serious read , filled with heavy doses of always enticing Sayles dialogue .	world-knowledge::desirable-element::positive
@@ -294,39 +294,39 @@
 293	sst	450	4	... as the story congeals you feel the pieces of the Star Wars saga falling into place in a way that makes your spine tingle with revelation and excitement .	positive::strong::difficult-vocab
 294	sst	462	4	One of the best examples of how to treat a subject , you 're not fully aware is being examined , much like a photo of yourself you did n't know was being taken .	positive::strong::comparative
 295	sst	464	3	As if to prove a female director can make a movie with no soft edges , Kathryn Bigelow offers no sugar-coating or interludes of lightness .	desirable-element::negative::negated
-296	sst	466	3	-LRB- Villeneuve -RRB- seems to realize intuitively that even morality is reduced to an option by the ultimate mysteries of life and death .	positive
+296	sst	466	3	-LRB- Villeneuve -RRB- seems to realize intuitively that even morality is reducer to an option by the ultimate mysteries of life and death .	positive
 297	sst	471	2	He can scale a building like a super hero , he can out-stealth any agent , he 'll get the girl .	positive::morphology
-298	sst	478	4	The film delivers not just the full assault of Reno 's immense wit and insight , but a time travel back to what it felt like during those unforgettably uncertain days .	positive::amplified::set-phrase::mixed
-299	sst	496	4	There 's no denying the physically spectacular qualities of the film ... or the emotional integrity of the performances .	positive::set-phrase::strong
+298	sst	478	4	The film delivers not just the full assault of Reno 's immense wit and insight , but a time travel back to what it felt like during those unforgettably uncertain days .	positive::amplified::idioms::mixed
+299	sst	496	4	There 's no denying the physically spectacular qualities of the film ... or the emotional integrity of the performances .	positive::idioms::strong
 300	sst	499	2	Stevenson 's performance is at once clueless and fiercely committed , a volatile combination .	mixed
 301	sst	510	3	A psychologically rich and suspenseful moral thriller with a stellar performance by Al Pacino .	positive
 302	sst	514	4	Provide -LRB- s -RRB- nail-biting suspense and credible characters without relying on technology-of-the-moment technique or pretentious dialogue .	positive::strong::desirable-element::mixed
-303	sst	515	3	If it tried to do anything more , it would fail and perhaps explode , but at this level of manic whimsy , it is just about right .	non-factual speech::mixed
-304	sst	520	4	This road movie gives you emotional whiplash , and you 'll be glad you went along for the ride .	mixed::positive::set-phrase
+303	sst	515	3	If it tried to do anything more , it would fail and perhaps explode , but at this level of manic whimsy , it is just about right .	modality::mixed
+304	sst	520	4	This road movie gives you emotional whiplash , and you 'll be glad you went along for the ride .	mixed::positive::idioms
 305	sst	548	4	Hilarious , acidic Brit comedy .	strong::positive::difficult-vocab
-306	sst	592	4	-LRB- Director Peter -RRB- Jackson and his crew have so steeped themselves in the majesty of Tolkien 's writing that every frame produces new joys , whether you 're a fan of the books or not .	positive::non-factual speech::mixed
+306	sst	592	4	-LRB- Director Peter -RRB- Jackson and his crew have so steeped themselves in the majesty of Tolkien 's writing that every frame produces new joys , whether you 're a fan of the books or not .	positive::modality::mixed
 307	sst	605	4	another great ` what you do n't see ' is much more terrifying than what you do see thriller , coupled with some arresting effects , incandescent tones and stupendous performances	positive::strong::mixed
 308	sst	616	4	Compelling as it is exotic , Fast Runner has a plot that rivals Shakespeare for intrigue , treachery and murder .	desirable-element::negative::positive
 309	sst	622	4	Bow 's best moments are when he 's getting busy on the basketball court because that 's when he really scores .	positive::strong
-310	sst	624	1	In the end , Punch-Drunk Love is one of those films that I wanted to like much more than I actually did .	comparative::non-factual speech
+310	sst	624	1	In the end , Punch-Drunk Love is one of those films that I wanted to like much more than I actually did .	comparative::modality
 311	sst	635	2	No question .	no-sentiment::negated
-312	sst	637	3	What Full Frontal lacks in thematic coherence it largely makes up for as loosey-goosey , experimental entertainment .	desirable-element::positive::shifted::difficult-vocab::set-phrase
+312	sst	637	3	What Full Frontal lacks in thematic coherence it largely makes up for as loosey-goosey , experimental entertainment .	desirable-element::positive::shifter::difficult-vocab::idioms
 313	sst	641	0	Do we really need a -minute film to tell us exactly why a romantic relationship between a -year-old boy and a -year-old woman does n't work ?	sarcasm/irony
 314	sst	644	0	Do n't expect any surprises in this checklist of teamwork cliches ...	desirable-element::negated::positive
 315	sst	649	4	This is a happy throwback to the time when cartoons were cinema 's most idiosyncratic form instead of one of its most predictable .	positive::difficult-vocab::comparative
 316	sst	660	2	But if you expect light romantic comedy , good gosh , will you be shocked .	negative
-317	sst	673	3	When your leading ladies are a couple of screen-eating dominatrixes like Goldie Hawn and Susan Sarandon at their raunchy best , even hokum goes down easily .	difficult-vocab::positive::set-phrase
+317	sst	673	3	When your leading ladies are a couple of screen-eating dominatrixes like Goldie Hawn and Susan Sarandon at their raunchy best , even hokum goes down easily .	difficult-vocab::positive::idioms
 318	sst	681	1	It 's fairly self-aware in its dumbness .	negative::difficult-vocab
 319	sst	687	4	The film benefits greatly from a less manic tone than its predecessor , as Cho appears to have settled comfortably into her skin .	comparative::positive::amplified
 320	sst	706	0	Just another fish-out-of-water story that barely stays afloat .	sarcasm/irony::morphology::difficult-vocab::negative
-321	sst	725	2	Not as distinctive or even as humorous as its needs to be to stand out , but it has clearly been made with affection and care .	mixed::reduced::positive
+321	sst	725	2	Not as distinctive or even as humorous as its needs to be to stand out , but it has clearly been made with affection and care .	mixed::reducer::positive
 322	sst	737	3	Happily for Mr. Chin -- though unhappily for his subjects -- the invisible hand of the marketplace wrote a script that no human screenwriter could have hoped to match .	mixed
 323	sst	739	2	the plot is so amusingly contrived and outlandish in its coincidences that no one could ever mistake it for anything resembling reality	mixed
 324	sst	742	3	-LRB- Fessenden -RRB- is much more into ambiguity and creating mood than he is for on screen thrills	comparative::positive
-325	sst	743	4	The comic performances are all spot on , especially Lee Ross 's turn as Ken .	set-phrase::positive::strong
-326	sst	744	3	a compelling journey ... and `` His Best Friend Remembers '' is up there with the finest of specials .	set-phrase::positive
+325	sst	743	4	The comic performances are all spot on , especially Lee Ross 's turn as Ken .	idioms::positive::strong
+326	sst	744	3	a compelling journey ... and `` His Best Friend Remembers '' is up there with the finest of specials .	idioms::positive
 327	sst	746	3	The Hours makes you examine your own life in much the same way its characters do , and the experience is profound .	positive
-328	sst	747	4	The Hours is what movies are supposed to be ...	set-phrase::positive::world-knowledge::strong
+328	sst	747	4	The Hours is what movies are supposed to be ...	idioms::positive::world-knowledge::strong
 329	sst	754	2	The ending does leave you unfulfilled , but these are performances to enjoy in a memorable ensemble piece .	mixed
 330	sst	755	2	... an agreeable time-wasting device -- but George Pal 's low-tech version still rules the epochs .	mixed
 331	sst	758	3	I do n't think I 've been as entranced and appalled by an Asian film since Shinya Tsukamoto 's Iron Man .	mixed
@@ -336,7 +336,7 @@
 335	sst	789	4	Cho 's fearless in picking apart human foibles , not afraid to lay her life bare in front of an audience .	negative::negated::positive::strong
 336	sst	795	3	Occasionally , in the course of reviewing art-house obscurities and slam-bam action flicks , a jaded critic smacks into something truly new .	morphology::positive::amplified::mixed
 337	sst	805	2	Boisterous and daft documentary .	mixed
-338	sst	808	4	Full Frontal is the antidote for Soderbergh fans who think he 's gone too commercial since his two Oscar nominated films in	non-factual speech::negative::shifted
+338	sst	808	4	Full Frontal is the antidote for Soderbergh fans who think he 's gone too commercial since his two Oscar nominated films in	modality::negative::shifter
 339	sst	812	4	It 's as close as we 'll ever come to looking through a photographer 's viewfinder as he works .	world-knowledge::positive
 340	sst	816	3	You have to pay attention to follow all the stories , but they 're each interesting .	positive
 341	sst	820	4	A psychological thriller with a smart script and an obsessive-compulsive 's attention to detail .	morphology::desirable-element::strong::positive
@@ -344,11 +344,11 @@
 343	sst	831	3	Smart science fiction for grown-ups , with only a few false steps along the way .	mixed::positive
 344	sst	835	4	Lathan and Diggs have considerable personal charm , and their screen rapport makes the old story seem new .	desirable-element::positive::amplified
 345	sst	836	4	The story may not be new , but Australian director John Polson , making his American feature debut , jazzes it up adroitly .	difficult-vocab::positive::amplified
-346	sst	863	3	The spark of special anime magic here is unmistakable and hard to resist .	positive::set-phrase
+346	sst	863	3	The spark of special anime magic here is unmistakable and hard to resist .	positive::idioms
 347	sst	865	2	Baran is n't the most transporting or gripping film from Iran -- or , indeed , by its director -- but it 's a worthy companion to the many fine , focused films emerging from that most surprising of nations .	mixed
 348	sst	887	2	Engrossing and affecting , if ultimately not quite satisfying .	mixed
 349	sst	893	3	Not a bad journey at all .	negative::negated
-350	sst	903	4	Huppert gives Erika a persona that is so intriguing that you find yourself staring hypnotically at her , trying to understand her and wondering if she 'll crack .	positive::non-factual speech
+350	sst	903	4	Huppert gives Erika a persona that is so intriguing that you find yourself staring hypnotically at her , trying to understand her and wondering if she 'll crack .	positive::modality
 351	sst	908	4	It is a kickass , dense sci-fi action thriller hybrid that delivers and then some .	positive::strong
 352	sst	909	2	I have n't seen one in so long , no wonder I did n't recognize it at first .	no-sentiment
 353	sst	913	4	... Blade II is more enjoyable than the original .	positive::comparative
@@ -356,7 +356,7 @@
 355	sst	932	2	The AM-radio soundtrack and game cast -- Tierney and the inimitable Walken especially -- keep this unusual comedy from choking on its own conceit .	mixed
 356	sst	933	2	... does such a fine job of engulfing you in its world and allying you with its characters ' choices , good and ill , that its shortcomings are remembered only as an afterthought .	mixed
 357	sst	936	4	Novak manages to capture a cruelly hilarious vein of black comedy in the situation with his cast of non-actors and a gritty , no-budget approach .	mixed::positive::strong::morphology
-358	sst	938	1	Still , I thought it could have been more .	non-factual speech::positive::comparative
+358	sst	938	1	Still , I thought it could have been more .	modality::positive::comparative
 359	sst	948	4	Throwing caution to the wind with an invitation to the hedonist in us all , Nair has constructed this motion picture in such a way that even the most cynical curmudgeon with find himself or herself smiling at one time or another .	difficult-vocab::mixed::positive
 360	sst	953	2	Frailty is n't as gory or explicit .	negative::negated
 361	sst	956	3	The long-range appeal of `` Minority Report '' should transcend any awards it bags .	positive::desirable-element
@@ -364,81 +364,81 @@
 363	sst	963	4	The Powers team has fashioned a comedy with more laughs than many , no question .	desirable-element::positive::comparative
 364	sst	967	4	A film that is a portrait of grace in an imperfect world .	mixed::desirable-element::positive
 365	sst	972	4	An enjoyably half-wit remake of the venerable Italian comedy Big Deal on Madonna Street .	morphology::positive
-366	sst	998	4	Biggie and Tupac is so single-mindedly daring , it puts far more polished documentaries to shame .	morphology::difficult-vocab::set-phrase::positive::strong::comparative
+366	sst	998	4	Biggie and Tupac is so single-mindedly daring , it puts far more polished documentaries to shame .	morphology::difficult-vocab::idioms::positive::strong::comparative
 367	sst	1013	3	A captivating cross-cultural comedy of manners .	morphology::positive
 368	sst	1017	4	It 's -LRB- Ricci 's -RRB- best work yet , this girl-woman who sincerely believes she can thwart the world 's misery with blind good will .	positive::amplified::mixed
 369	sst	1019	4	-LRB- Howard -RRB- so good as Leon Barlow ... that he hardly seems to be acting .	positive::world-knowledge
 370	sst	1031	4	Leave it to Rohmer , now , to find a way to bend current technique to the service of a vision of the past that is faithful to both architectural glories and commanding open spaces of the city as it was more than two centuries ago .	positive
-371	sst	1036	0	It took predecessors to get THIS ?	sarcasm/irony::spelling
+371	sst	1036	0	It took predecessors to get THIS ?	sarcasm/irony::non-standard spelling
 372	sst	1038	3	One of the most haunting , viciously honest coming-of-age films in recent memory .	positive::amplified
 373	sst	1039	4	The WWII drama is well plotted , visually striking and filled with enjoyably complex characters who are never what they first appear .	positive::strong
 374	sst	1040	4	It 's a pleasure to see Seinfeld griping about the biz with buddies Chris Rock , Garry Shandling and Colin Quinn .	positive::strong::mixed
 375	sst	1045	3	It 's like a poem .	desirable-element::positive
 376	sst	1051	3	Sturdy , entertaining period drama ... both Caine and Fraser have their moments .	positive
 377	sst	1058	4	Everything you loved about it in is still there , for everybody who wants to be a kid again , or show it to their own kids .	positive::strong
-378	sst	1074	0	The film seems a dead weight .	negative::strong::set-phrase
-379	sst	1081	0	The ending is a cop-out .	set-phrase::negative::strong::morphology
+378	sst	1074	0	The film seems a dead weight .	negative::strong::idioms
+379	sst	1081	0	The ending is a cop-out .	idioms::negative::strong::morphology
 380	sst	1085	1	Remember when Bond had more glamour than clamor ?	comparative::negative
 381	sst	1087	2	Cry havoc and let slip the dogs of cheese , indeed .	no-sentiment
 382	sst	1094	0	Most of the supporting characters in Eastwood films are weak , as are most of the subplots .	negative
 383	sst	1095	0	This one 's weaker than most .	comparative::negative
-384	sst	1109	1	I doubt anyone will remember the picture by the time Christmas really rolls around , but maybe it 'll be on video by then .	positive::shifted
+384	sst	1109	1	I doubt anyone will remember the picture by the time Christmas really rolls around , but maybe it 'll be on video by then .	positive::shifter
 385	sst	1127	4	The use of CGI and digital ink-and-paint make the thing look really slick .	morphology::amplified::positive
 386	sst	1131	0	Proves that a movie about goodness is not the same thing as a good movie .	comparative::negated::positive
-387	sst	1139	0	While the film misfires at every level , the biggest downside is the paucity of laughter in what 's supposed to be a comedy .	strong::negative::shifted::desirable-element::positive
+387	sst	1139	0	While the film misfires at every level , the biggest downside is the paucity of laughter in what 's supposed to be a comedy .	strong::negative::shifter::desirable-element::positive
 388	sst	1143	1	She lists ingredients , but never mixes and stirs .	world-knowledge
-389	sst	1144	0	Audiences can be expected to suspend their disbelief only so far -- and that does not include the o'clock shadow on the tall wooden kid as he skips off to school .	difficult-vocab::set-phrase::negative
+389	sst	1144	0	Audiences can be expected to suspend their disbelief only so far -- and that does not include the o'clock shadow on the tall wooden kid as he skips off to school .	difficult-vocab::idioms::negative
 390	sst	1147	0	Credibility levels are low and character development a non-starter .	negative::morphology
-391	sst	1148	1	I would have preferred a transfer down the hall to Mr. Holland 's class for the music , or to Robin Williams 's lecture so I could listen to a teacher with humor , passion , and verve .	non-factual speech::positive
+391	sst	1148	1	I would have preferred a transfer down the hall to Mr. Holland 's class for the music , or to Robin Williams 's lecture so I could listen to a teacher with humor , passion , and verve .	modality::positive
 392	sst	1151	4	An earnest , heartrending look at the divide between religious fundamentalists and their gay relatives .	positive::strong::difficult-vocab
 393	sst	1156	0	This is a throwaway , junk-food movie whose rap soundtrack was better tended to than the film itself .	strong::negative::difficult-vocab::morphology
-394	sst	1157	0	... with the candy-like taste of it fading faster than -cent bubble gum , I realized this is a throwaway movie that wo n't stand the test of time .	morphology::strong::negative::set-phrase::negated::positive
+394	sst	1157	0	... with the candy-like taste of it fading faster than -cent bubble gum , I realized this is a throwaway movie that wo n't stand the test of time .	morphology::strong::negative::idioms::negated::positive
 395	sst	1159	2	Literally nothing in The Pool is new , but if you grew up on the stalker flicks of the 's this one should appease you for minutes .	mixed
 396	sst	1160	1	Arguably the year 's silliest and most incoherent movie .	comparative::negative::amplified
 397	sst	1161	2	Anyway , for one reason or another , Crush turns into a dire drama partway through .	no-sentiment
 398	sst	1165	0	He has not learnt that storytelling is what the movies are about .	desirable-element::negated::positive
-399	sst	1171	0	So what is the point ?	negative::non-factual speech
+399	sst	1171	0	So what is the point ?	negative::modality
 400	sst	1173	1	This is junk food cinema at its greasiest .	comparative::negative
 401	sst	1174	4	When it 's all wet , Blue Crush is highly enjoyable .	amplified::positive
 402	sst	1177	0	Some , like Ballistic , arrive stillborn ... looking like the beaten , well-worn video box cover of seven years into the future .	negative::strong
-403	sst	1198	1	It 's laughing at us .	negative::set-phrase
+403	sst	1198	1	It 's laughing at us .	negative::idioms
 404	sst	1200	2	Every good actor needs to do his or her own Hamlet .	no-sentiment
 405	sst	1204	2	Both awful and appealing .	mixed
-406	sst	1213	4	The Movie will reach far beyond its core demographic .	set-phrase::positive::amplified
+406	sst	1213	4	The Movie will reach far beyond its core demographic .	idioms::positive::amplified
 407	sst	1225	2	It 's not that Waiting For Happiness is a bad film , because it is n't .	negative::negated
-408	sst	1234	0	Shadyac shoots his film like an M. Night Shyamalan movie , and he frequently maintains the same snail 's pace ; he just forgot to add any genuine tension .	shifted::positive::desirable-element
-409	sst	1249	1	The story is familiar from its many predecessors ; like them , it eventually culminates in the not-exactly - stunning insight that crime does n't pay .	morphology::positive::reduced::negated
+408	sst	1234	0	Shadyac shoots his film like an M. Night Shyamalan movie , and he frequently maintains the same snail 's pace ; he just forgot to add any genuine tension .	shifter::positive::desirable-element
+409	sst	1249	1	The story is familiar from its many predecessors ; like them , it eventually culminates in the not-exactly - stunning insight that crime does n't pay .	morphology::positive::reducer::negated
 410	sst	1251	0	You 'll be more entertained getting hit by a bus .	sarcasm/irony::comparative::positive::world-knowledge
-411	sst	1259	0	The Sum of All Fears is almost impossible to follow -- and there 's something cringe-inducing about seeing an American football stadium nuked as pop entertainment .	morphology::negative::set-phrase::strong
+411	sst	1259	0	The Sum of All Fears is almost impossible to follow -- and there 's something cringe-inducing about seeing an American football stadium nuked as pop entertainment .	morphology::negative::idioms::strong
 412	sst	1260	2	Alex Nohe 's documentary plays like a travelogue for what mostly resembles a real-life , big-budget NC- version of Tank Girl .	no-sentiment
 413	sst	1270	1	A gimmick in search of a movie : how to get Carvey into as many silly costumes and deliver as many silly voices as possible , plot mechanics be damned .	sarcasm/irony::negative
 414	sst	1272	1	... fifty minutes of tedious adolescent melodramatics followed by thirty-five minutes of inflated nonsense .	negative
-415	sst	1273	2	... lacks the punch and verve needed to make this genre soar .	desirable-element::shifted::positive
+415	sst	1273	2	... lacks the punch and verve needed to make this genre soar .	desirable-element::shifter::positive
 416	sst	1275	2	It 's tough , astringent , darkly funny and ... well , it 's also generic , untidy , condescending and mild of impact rather than stunning .	mixed
 417	sst	1282	1	A strong first quarter , slightly less so second quarter , and average second half .	mixed
 418	sst	1284	1	The vampire thriller Blade II starts off as a wild hoot and then sucks the blood out of its fun -- toward the end , you can feel your veins cringing from the workout .	mixed::difficult-vocab::negative
 419	sst	1287	2	The final result makes for adequate entertainment , I suppose , but anyone who has seen Chicago on stage will leave the theater feeling they 've watched nothing but a pale imitation of the real deal .	mixed
 420	sst	1292	2	It 's fun , but a psychological mess , with Austin Powers bumping his head on the way out of the closet .	mixed
-421	sst	1299	0	The film would work much better as a video installation in a museum , where viewers would be free to leave .	non-factual speech::world-knowledge::negative::strong
+421	sst	1299	0	The film would work much better as a video installation in a museum , where viewers would be free to leave .	modality::world-knowledge::negative::strong
 422	sst	1308	0	Obstacles are too easily overcome and there is n't much in the way of character development in the script .	desirable-element::negated::positive
 423	sst	1317	2	This is really just another genre picture .	no-sentiment
 424	sst	1322	1	Acting , particularly by Tambor , almost makes `` Never Again '' worthwhile , but -LRB- writer\/director -RRB- Schaeffer should follow his titular advice	mixed
 425	sst	1325	0	` Enigma ' is a good name for a movie this delibrately obtuse and unapproachable .	strong::negative::difficult-vocab
-426	sst	1331	0	Like so many other allegedly scary movies , it gets so tangled up in The Twist that it chokes the energy right out of the very audience it seeks to frighten .	negative::set-phrase
+426	sst	1331	0	Like so many other allegedly scary movies , it gets so tangled up in The Twist that it chokes the energy right out of the very audience it seeks to frighten .	negative::idioms
 427	sst	1333	0	Just like Hearst 's enormous yacht , it 's slow and unwieldy and takes a long time to reach its destination .	negative
 428	sst	1334	0	There is not a character in the movie with a shred of plausibility , not an event that is believable , not a confrontation that is not staged , not a moment that is not false .	desirable-element::negated::positive
 429	sst	1335	1	Where last time jokes flowed out of Cho 's life story , which provided an engrossing dramatic through line , here the comedian hides behind obviously constructed routines .	mixed
 430	sst	1342	3	Wasabi is slight fare indeed , with the entire project having the feel of something tossed off quickly -LRB- like one of Hubert 's punches -RRB- , but it should go down smoothly enough with popcorn .	mixed
-431	sst	1349	0	This time Kaufman 's imagination has failed him .	set-phrase::negative
+431	sst	1349	0	This time Kaufman 's imagination has failed him .	idioms::negative
 432	sst	1358	2	Director Clare Kilner 's debut is never as daft as it should have been .	no-sentiment
 433	sst	1368	2	It is , by conventional standards , a fairly terrible movie ... but it is also weirdly fascinating , a ready-made Eurotrash cult object .	mixed
 434	sst	1375	1	Offensive in the way it exploits the hot-button issue of domestic abuse for cheap thrills and disgusting in the manner it repeatedly puts a small child in jeopardy , treating her as little more than a prop to be cruelly tormented .	negative
 435	sst	1383	2	Great story , bad idea for a movie .	mixed
 436	sst	1384	0	With Spy Kids : The Island of Lost Dreams writer\/director\/producer Robert Rodriguez has cobbled together a film that feels like a sugar high gone awry .	comparative::negative
 437	sst	1387	2	`` My god , I 'm behaving like an idiot ! ''	no-sentiment
-438	sst	1393	0	All I can say is fuhgeddaboutit .	spelling::sarcasm/irony
+438	sst	1393	0	All I can say is fuhgeddaboutit .	non-standard spelling::sarcasm/irony
 439	sst	1400	0	Spousal abuse is a major problem in contemporary society , but the film reduces this domestic tragedy to florid melodrama .	negative::strong
-440	sst	1401	0	Oedekerk wrote Patch Adams , for which he should not be forgiven .	negative::set-phrase::strong
+440	sst	1401	0	Oedekerk wrote Patch Adams , for which he should not be forgiven .	negative::idioms::strong
 441	sst	1415	0	Writhing under dialogue like ` You 're from two different worlds ' and ` Tonight the maid is a lie and this , this is who you are , ' this schlock-filled fairy tale hits new depths of unoriginality and predictability .	difficult-vocab::morphology::negative
 442	sst	1416	0	... too slow , too boring , and occasionally annoying .	amplified::negative
 443	sst	1417	2	Is there enough material to merit a documentary on the making of Wilco 's last album ?	no-sentiment
@@ -461,28 +461,28 @@
 460	sst	1549	0	Trivial where it should be profound , and hyper-cliched where it should be sincere .	mixed::comparative::negative::morphology
 461	sst	1555	1	Collateral Damage is , despite its alleged provocation post- \/ , an antique , in the end .	negative
 462	sst	1566	0	Made by jackasses for jackasses .	negative::strong
-463	sst	1572	0	Philip K. Dick must be turning in his grave , along with my stomach .	set-phrase::negative::strong
+463	sst	1572	0	Philip K. Dick must be turning in his grave , along with my stomach .	idioms::negative::strong
 464	sst	1579	0	It 's difficult to say whether The Tuxedo is more boring or embarrassing -- I 'm prepared to call it a draw .	negative::strong::sarcasm/irony::comparative
 465	sst	1601	0	As written by Michael Berg and Michael J. Wilson from a story by Wilson , this relentless , all-wise-guys-all-the-time approach tries way too hard and gets tiring in no time at all .	morphology::negative::amplified
-466	sst	1602	1	Will probably stay in the shadow of its two older , more accessible Qatsi siblings .	comparative::set-phrase::negative
-467	sst	1607	0	If you 're looking for comedy to be served up , better look elsewhere .	set-phrase::negative
+466	sst	1602	1	Will probably stay in the shadow of its two older , more accessible Qatsi siblings .	comparative::idioms::negative
+467	sst	1607	0	If you 're looking for comedy to be served up , better look elsewhere .	idioms::negative
 468	sst	1608	1	It virtually defines a comedy that 's strongly mediocre , with funny bits surfacing every once in a while .	amplified::negative::mixed
 469	sst	1612	0	Adam Sandler is to Gary Cooper what a gnat is to a racehorse .	comparative::world-knowledge::negative::strong
 470	sst	1615	2	Beers , who , when she 's given the right lines , can charm the paint off the wall ... -LRB- but -RRB- the script goes wrong at several key junctures .	mixed
-471	sst	1616	1	Without September , Collateral Damage would have been just another bad movie .	non-factual speech::negative
+471	sst	1616	1	Without September , Collateral Damage would have been just another bad movie .	modality::negative
 472	sst	1621	0	Wait for video -- and then do n't rent it .	negated::positive
 473	sst	1622	2	The attempt is courageous , even if the result is wildly uneven .	mixed
 474	sst	1624	0	Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger , more complicated story , one that never materializes .	mixed::amplified::negative
 475	sst	1627	0	Unfortunately , Heartbreak Hospital wants to convey the same kind of haughtiness in its own sketchy material but this territory has already been explored previously with better aplomb and sardonic wit .	negative::strong::mixed
-476	sst	1630	3	The latest installment in the Pokemon canon , Pokemon ever is surprising less moldy and trite than the last two , likely because much of the Japanese anime is set in a scenic forest where Pokemon graze in peace .	reduced::negative
+476	sst	1630	3	The latest installment in the Pokemon canon , Pokemon ever is surprising less moldy and trite than the last two , likely because much of the Japanese anime is set in a scenic forest where Pokemon graze in peace .	reducer::negative
 477	sst	1631	2	Taken purely as an exercise in style , this oppressively gloomy techno-horror clambake is impossible to ignore .	mixed
 478	sst	1634	0	The backyard battles you staged with your green plastic army men were more exciting and almost certainly made more sense .	sarcasm/irony::world-knowledge::comparative
-479	sst	1639	2	Had the film boasted a clearer , more memorable , the creepiness would have gotten under the skin .	non-factual speech::positive::mixed
+479	sst	1639	2	Had the film boasted a clearer , more memorable , the creepiness would have gotten under the skin .	modality::positive::mixed
 480	sst	1640	0	These people would n't know subtle characterization if it put on a giant furry monster costume and then gave them a lapdance .	sarcasm/irony::desirable-element::positive::negated
 481	sst	1644	1	The director 's twitchy sketchbook style and adroit perspective shifts grow wearisome amid leaden pacing and indifferent craftsmanship -LRB- most notably wretched sound design -RRB- .	negative::difficult-vocab
-482	sst	1647	0	Marisa Tomei is good , but Just A Kiss is just a mess .	mixed::set-phrase::negative::strong
+482	sst	1647	0	Marisa Tomei is good , but Just A Kiss is just a mess .	mixed::idioms::negative::strong
 483	sst	1648	0	Opens at a funeral , ends on the protagonist 's death bed and does n't get much livelier in the three hours in between .	sarcasm/irony::positive::negated
-484	sst	1675	0	If this is the resurrection of the Halloween franchise , it would have been better off dead .	non-factual speech::sarcasm/irony::strong::negative
+484	sst	1675	0	If this is the resurrection of the Halloween franchise , it would have been better off dead .	modality::sarcasm/irony::strong::negative
 485	sst	1680	2	No worse than a lot of the crap we 've been offered this summer , and slightly better than Men in Black as far as slapdash extraterrestrial comedies go .	comparative::negated::negative
 486	sst	1690	1	It 's a movie forged in the fires of Chick Flick Hell .	world-knowledge::sarcasm/irony::negative
 487	sst	1696	0	Denzel Washington 's efforts are sunk by all the sanctimony .	negative::desirable-element
@@ -498,32 +498,32 @@
 497	sst	1743	0	Just one more collection of penis , breast and flatulence gags in search of a story .	world-knowledge::negative::strong
 498	sst	1747	0	Enough trivializes an important crisis , reduces it to an almost comic embarrassment .	negative
 499	sst	1749	3	I like Frank the Pug , though .	positive
-500	sst	1756	0	Madonna still ca n't act a lick .	set-phrase::negative::strong
+500	sst	1756	0	Madonna still ca n't act a lick .	idioms::negative::strong
 501	sst	1769	1	... perhaps the heaviest , most joyless movie ever made about giant dragons taking over the world .	negative::amplified::comparative
 502	sst	1777	2	Even if you feel like you 've seen this movie a thousand times before , it is kind of enjoyable thanks mainly to Belushi 's easy-going likableness .	mixed::morphology
-503	sst	1778	1	The story bogs down in a mess of purposeless violence .	set-phrase::negative::desirable-element
+503	sst	1778	1	The story bogs down in a mess of purposeless violence .	idioms::negative::desirable-element
 504	sst	1782	2	The cumulative effect of the relentless horror on parade numbs the movie 's power as a work of drama .	mixed
 505	sst	1785	0	When she speaks , her creepy Egyptian demigod voice is as computer processed and overproduced as it was in her music .	comparative::negative
-506	sst	1787	1	We miss the quirky amazement that used to come along for an integral part of the ride .	desirable-element::positive::shifted
+506	sst	1787	1	We miss the quirky amazement that used to come along for an integral part of the ride .	desirable-element::positive::shifter
 507	sst	1793	2	Passion , lip-synching , tragedy , and lots of really really high notes .	mixed
 508	sst	1795	0	Looks like a high school film project completed the day before it was due .	world-knowledge::sarcasm/irony::negative
-509	sst	1797	0	Abandons all pretense of creating historical context and waltzes off into a hectic soap about the ups and downs of the heavy breathing between the two artists .	desirable-element::positive::shifted
-510	sst	1798	0	Even die-hard fans of Japanese animation ... will find this one a challenge .	negative::set-phrase
+509	sst	1797	0	Abandons all pretense of creating historical context and waltzes off into a hectic soap about the ups and downs of the heavy breathing between the two artists .	desirable-element::positive::shifter
+510	sst	1798	0	Even die-hard fans of Japanese animation ... will find this one a challenge .	negative::idioms
 511	sst	1808	0	Automatically pegs itself for the straight-to-video sci-fi rental shelf .	negative::morphology
-512	sst	1809	0	The film is like a series of beginnings and middles that never take off .	negative::set-phrase
+512	sst	1809	0	The film is like a series of beginnings and middles that never take off .	negative::idioms
 513	sst	1816	2	In the end , White Oleander is n't an adaptation of a novel .	no-sentiment
 514	sst	1820	2	Just one problem : Fish out of water usually die .	no-sentiment
 515	sst	1822	0	The angst-ridden , affluent slacker characters are more grating than engaging .	negative::amplified
 516	sst	1823	1	A soggy , shapeless mess ... just a dumb excuse for a waterlogged equivalent of a haunted-house movie .	negative
 517	sst	1854	0	The cold and dreary weather is a perfect metaphor for the movie itself , which contains few laughs and not much drama .	desirable-element::positive::negated
-518	sst	1856	0	ordinary melodrama that is heavy on religious symbols but wafer-thin on dramatic substance	desirable-element::positive::shifted
+518	sst	1856	0	ordinary melodrama that is heavy on religious symbols but wafer-thin on dramatic substance	desirable-element::positive::shifter
 519	sst	1862	1	Static , repetitive , muddy and blurry , Hey Arnold !	negative
-520	sst	1866	2	What The Four Feathers lacks is genuine sweep or feeling or even a character worth caring about .	desirable-element::positive::shifted
-521	sst	1873	0	As elegantly crafted as it often is , Anderson 's movie is essentially a one-trick pony that , hampered by an undeveloped script , ultimately pulls up lame .	negative::set-phrase
+520	sst	1866	2	What The Four Feathers lacks is genuine sweep or feeling or even a character worth caring about .	desirable-element::positive::shifter
+521	sst	1873	0	As elegantly crafted as it often is , Anderson 's movie is essentially a one-trick pony that , hampered by an undeveloped script , ultimately pulls up lame .	negative::idioms
 522	sst	1877	2	This kind of dark comedy requires a delicate , surgical touch .	no-sentiment
 523	sst	1881	3	Rather quickly , the film falls into a soothing formula of brotherly conflict and reconciliation .	positive
 524	sst	1887	1	Liman , of Swingers and Go , makes his big-budget action film debut something of a clunker as he delivers a long , low-heat chase , interrupted by a middling car chase .	negative
-525	sst	1901	0	If this is the Danish idea of a good time , prospective tourists might want to consider a different destination -- some jolly country embroiled in a bloody civil war , perhaps .	non-factual speech::sarcasm/irony
+525	sst	1901	0	If this is the Danish idea of a good time , prospective tourists might want to consider a different destination -- some jolly country embroiled in a bloody civil war , perhaps .	modality::sarcasm/irony
 526	sst	1917	2	This -minute film does have some exciting scenes , but it 's a tad slow .	mixed
 527	sst	1928	0	Others may find it migraine-inducing , despite Moore 's attempts at whimsy and spoon feeding .	mixed::morphology::strong::negative
 528	sst	1929	2	Despite its good nature and some genuinely funny moments , Super Troopers suffers from a bad case of arrested development .	mixed
@@ -531,63 +531,63 @@
 530	sst	1931	0	I watched the brainless insanity of No Such Thing with mounting disbelief .	negative::strong
 531	sst	1935	1	Any movie this boring should be required to have ushers in the theater that hand you a cup of coffee every few minutes .	negative::sarcasm/irony
 532	sst	1942	2	A gorgeous , somnolent show that is splendidly mummified and thoroughly unsurprising .	mixed
-533	sst	1943	0	It feels like a community theater production of a great Broadway play : Even at its best , it will never hold a candle to the original .	sarcasm/irony::world-knowledge::set-phrase::negative
+533	sst	1943	0	It feels like a community theater production of a great Broadway play : Even at its best , it will never hold a candle to the original .	sarcasm/irony::world-knowledge::idioms::negative
 534	sst	1948	1	A graceless , witless attempt at mating Some Like It Hot with the WWII espionage thriller .	negative
 535	sst	1965	0	This is n't a `` Friday '' worth waiting for .	desirable-element::negated::positive
-536	sst	1982	0	I wish I could say `` Thank God It 's Friday '' , but the truth of the matter is I was glad when it was over .	set-phrase::negative
+536	sst	1982	0	I wish I could say `` Thank God It 's Friday '' , but the truth of the matter is I was glad when it was over .	idioms::negative
 537	sst	1990	0	The film makes a tragic error by going on for too long , trying to mirror every subsequent event in Chinese history : war , revolution , Communism , etc. .	negative::amplified
-538	sst	2009	1	George , hire a real director and good writers for the next installment , please .	desirable-element::positive::shifted
+538	sst	2009	1	George , hire a real director and good writers for the next installment , please .	desirable-element::positive::shifter
 539	sst	2029	0	De Niro may enjoy the same free ride from critics afforded to Clint Eastwood in the lazy Bloodwork .	negative
 540	sst	2036	1	But what saves lives on the freeway does not necessarily make for persuasive viewing .	desirable-element::positive::negated
 541	sst	2037	2	The Marquis de Sade could n't have been as dull a person as this film makes him out to be .	negative
-542	sst	2050	0	The Weight of Water uses water as a metaphor for subconscious desire , but this leaky script barely stays afloat .	negative::set-phrase
-543	sst	2075	0	Watching it is rather like an overlong visit from a large group of your relatives .	world-knowledge::negative::set-phrase
+542	sst	2050	0	The Weight of Water uses water as a metaphor for subconscious desire , but this leaky script barely stays afloat .	negative::idioms
+543	sst	2075	0	Watching it is rather like an overlong visit from a large group of your relatives .	world-knowledge::negative::idioms
 544	sst	2078	1	On the right track to something that 's creepy and effective ... It 's just going to take more than a man in a Bullwinkle costume to get there .	mixed
 545	sst	2086	0	Showtime is one of the hapless victims of the arrogant `` if we put together a wry white man and a chatty black man and give them guns , the movie will be funny '' syndrome .	world-knowledge::sarcasm/irony::negative
 546	sst	2087	1	Sushi for the connoisseurs of the macabre .	sarcasm/irony
-547	sst	2094	0	You 're better off staying home and watching The X-Files .	set-phrase::negative::strong
+547	sst	2094	0	You 're better off staying home and watching The X-Files .	idioms::negative::strong
 548	sst	2100	2	Brimful .	no-sentiment
-549	sst	2102	1	I weep for the future when a good portion of the respected critical community in this country consider Blue Crush to be an intelligent film about young women .	set-phrase::negative
+549	sst	2102	1	I weep for the future when a good portion of the respected critical community in this country consider Blue Crush to be an intelligent film about young women .	idioms::negative
 550	sst	2116	2	The journey toward redemption feels more like a cinematic experiment than a full-blown movie .	mixed
 551	sst	2130	0	Suffocated at conception by its Munchausen-by-proxy mum .	morphology::sarcasm/irony::negative
 552	sst	2131	1	Punish the vehicle to adore the star .	negative::sarcasm/irony
 553	sst	2144	0	It 's an awfully derivative story .	negative::amplified
 554	sst	2157	0	An atonal estrogen opera that demonizes feminism while gifting the most sympathetic male of the piece with a nice vomit bath at his wedding .	negative::difficult-vocab::strong
-555	sst	2164	1	The best way to hope for any chance of enjoying this film is by lowering your expectations .	set-phrase::negative
-556	sst	2168	1	A woozy , roisterous , exhausting mess , and the off-beat casting of its two leads turns out to be as ill-starred as you might expect .	negative::set-phrase::difficult-vocab
+555	sst	2164	1	The best way to hope for any chance of enjoying this film is by lowering your expectations .	idioms::negative
+556	sst	2168	1	A woozy , roisterous , exhausting mess , and the off-beat casting of its two leads turns out to be as ill-starred as you might expect .	negative::idioms::difficult-vocab
 557	sst	2173	0	Watching the film is like reading a Times Portrait of Grief that keeps shifting focus to the journalist who wrote it .	comparative::world-knowledge::sarcasm/irony
-558	sst	2176	3	Christians sensitive to a reductionist view of their Lord as a luv-spreading Dr. Feelgood or omnipotent slacker will feel vastly more affronted than secularists , who might even praise God for delivering such an instant camp classic .	spelling::mixed
-559	sst	2177	1	If this dud had been made in the 's , it would have been called The Hills Have Antlers and played for about three weeks in drive-ins .	sarcasm/irony::non-factual speech::negative
-560	sst	2179	2	Like a documentary version of Fight Club , shorn of social insight , intellectual pretension and cinematic interest .	desirable-element::world-knowledge::positive::shifted
+558	sst	2176	3	Christians sensitive to a reductionist view of their Lord as a luv-spreading Dr. Feelgood or omnipotent slacker will feel vastly more affronted than secularists , who might even praise God for delivering such an instant camp classic .	non-standard spelling::mixed
+559	sst	2177	1	If this dud had been made in the 's , it would have been called The Hills Have Antlers and played for about three weeks in drive-ins .	sarcasm/irony::modality::negative
+560	sst	2179	2	Like a documentary version of Fight Club , shorn of social insight , intellectual pretension and cinematic interest .	desirable-element::world-knowledge::positive::shifter
 561	sst	2180	0	`` An entire film about researchers quietly reading dusty old letters . ''	negative::world-knowledge
 562	sst	2182	0	What 's at stake in this film is nothing more than an obsolete , if irritating , notion of class .	negative
 563	sst	2188	0	John Leguizamo may be a dramatic actor -- just not in this movie .	desirable-element::positive::negated
 564	sst	2199	2	Even if it ultimately disappoints , the picture does have about a matinee admission 's worth of funny to keep it afloat .	mixed
 565	sst	2202	0	Disturbingly superficial in its approach to the material .	negative::amplified
 566	sst	2203	1	If you 're not the target demographic ... this movie is one long chick-flick slog .	negative
-567	sst	2208	3	Never -LRB- sinks -RRB- into exploitation .	set-phrase::negative::negated
+567	sst	2208	3	Never -LRB- sinks -RRB- into exploitation .	idioms::negative::negated
 568	tackstrom	1	2	You can 3 cards so you use them at once or use a special attack ( so if you stock 3 keyblades , Sora does his 3 hit combo .	no-sentiment
-569	tackstrom	4	1	Pros : It makes a great coaster for a frothy beverage ! ! !	sarcasm/irony::spelling
+569	tackstrom	4	1	Pros : It makes a great coaster for a frothy beverage ! ! !	sarcasm/irony::non-standard spelling
 570	tackstrom	13	3	I have n't seen a bargain like that for a while .	desirable-element::positive::negated
-571	tackstrom	21	1	However , it makes one yearn hard for the classic days of PF 's heyday .	desirable-element::positive::shifted
+571	tackstrom	21	1	However , it makes one yearn hard for the classic days of PF 's heyday .	desirable-element::positive::shifter
 572	tackstrom	29	1	But believe me , this is still not a reccomendation .	desirable-element::positive::negated
 573	tackstrom	30	3	Score 8.9	world-knowledge::positive
 574	tackstrom	33	2	The second game that was released was n't docked any points .	no-sentiment::negated
 575	tackstrom	36	2	The title track is passable .	no-sentiment
-576	tackstrom	37	3	10/10 Overall , I do n't see why this game got a lower score than the others .	positive::strong::non-factual speech::comparative::negative::negated::world-knowledge
+576	tackstrom	37	3	10/10 Overall , I do n't see why this game got a lower score than the others .	positive::strong::modality::comparative::negative::negated::world-knowledge
 577	tackstrom	40	3	It 's like the teams in Sonic Heroes , only the system works better .	world-knowledge::comparative::positive
-578	tackstrom	47	2	This ca n't really be helped though , since it would have been difficult to drive the story on if all the major characters were absent since you killed them during Baldur 's Gate 1 ! But these are n't REALLY cons , just some of the things I spotted and said ' That could have been slightly better ' .	negative::desirable-element::negated::non-factual speech
-579	tackstrom	51	3	It 's all about the voice , the human beatbox , and the clap .	set-phrase::positive::desirable-element
-580	tackstrom	59	1	He runs as if he has been running for 400 miles beforehand .	world-knowledge::negative::non-factual speech
-581	tackstrom	71	3	Graphics : 8/10 These graphics are just blocks piled ontop of eachother to present a character .... But , I guess in the time this came out ... which was I believe ' 97 ..... these graphics still were n't top noch .... Oh well ... I do n't judge games by graphics .... Although ... The cut scenes were fantastic !	spelling::mixed::world-knowledge
+578	tackstrom	47	2	This ca n't really be helped though , since it would have been difficult to drive the story on if all the major characters were absent since you killed them during Baldur 's Gate 1 ! But these are n't REALLY cons , just some of the things I spotted and said ' That could have been slightly better ' .	negative::desirable-element::negated::modality
+579	tackstrom	51	3	It 's all about the voice , the human beatbox , and the clap .	idioms::positive::desirable-element
+580	tackstrom	59	1	He runs as if he has been running for 400 miles beforehand .	world-knowledge::negative::modality
+581	tackstrom	71	3	Graphics : 8/10 These graphics are just blocks piled ontop of eachother to present a character .... But , I guess in the time this came out ... which was I believe ' 97 ..... these graphics still were n't top noch .... Oh well ... I do n't judge games by graphics .... Although ... The cut scenes were fantastic !	non-standard spelling::mixed::world-knowledge
 582	tackstrom	72	2	Marié is completely ga - ga over her new " baby . "	no-sentiment
-583	tackstrom	73	3	GET SSX 3 ! That 's my only conclusion , if you do n't have this game in your collection , get it now while it 's still there and go and shame yourself ! ! !	positive::spelling::mixed
-584	tackstrom	74	3	" Just plain fun " I do n't see why this game got a lower score than the other Nintendogs .	positive::spelling::comparative::negative
+583	tackstrom	73	3	GET SSX 3 ! That 's my only conclusion , if you do n't have this game in your collection , get it now while it 's still there and go and shame yourself ! ! !	positive::non-standard spelling::mixed
+584	tackstrom	74	3	" Just plain fun " I do n't see why this game got a lower score than the other Nintendogs .	positive::non-standard spelling::comparative::negative
 585	tackstrom	79	3	There is so much too do .	positive::desirable-element
-586	tackstrom	93	3	" Revolutionary " Halo was one of those games you can not live without .	positive::set-phrase
-587	tackstrom	95	3	Blinded By Fear . Under Azure Skies . It deserves to be mentioned in the same breath as these classics .	positive::set-phrase
+586	tackstrom	93	3	" Revolutionary " Halo was one of those games you can not live without .	positive::idioms
+587	tackstrom	95	3	Blinded By Fear . Under Azure Skies . It deserves to be mentioned in the same breath as these classics .	positive::idioms
 588	tackstrom	102	3	I also have n't encountered any drops in the game 's frame rate .	negative::negated::desirable-element
-589	tackstrom	103	3	I 'm still on the first level but so far I can yell : THERE IS NO ANY PROBLEM WITH THE CAMERA !	spelling::negative::negated
+589	tackstrom	103	3	I 'm still on the first level but so far I can yell : THERE IS NO ANY PROBLEM WITH THE CAMERA !	non-standard spelling::negative::negated
 590	tackstrom	111	2	You need to start in a location which is relatively unoccupied by potential enemies , and land grab like crazy .	no-sentiment
 591	tackstrom	112	1	manufactured anger , for a manufactured audience .	negative
 592	tackstrom	123	2	There are a few complaints I have , but it wo n't keep me from listening to the album .	mixed
@@ -598,24 +598,24 @@
 597	tackstrom	146	3	So far , so good , I 'm as excited as anyone who has played the previous , Itakagi is my man , too bad he is leaving Tecmo but maybe its a good thing since I doubt he will stop making games ...	positive
 598	tackstrom	147	3	Gameplay - 10/10 If you 've played a previous Tomb Raider game , then the outcome is predictable : jumping around , shooting bad guys , and the occasional puzzle and boss fight .	positive::strong::world-knowledge
 599	tackstrom	148	2	Well in - battle heartles surround you and you battle , you have cards depending on your attack .	no-sentiment
-600	tackstrom	157	3	* Welcome to Earth * is a no holes barred pop dance explosion of the romantic strain ( more akin to camoflage , depeche mode , and alphaville than moby , prodigy or ministry ) , but offers up no limp wrists .	spelling::positive::difficult-vocab::set-phrase
-601	tackstrom	158	3	If Final Fantasy VII is considered the pinnacle of console RPGs , then Baldur 's Gate is most definetely considered the pinnacle of computer RPGs . This is simply one of the best series of games ever made , and any RPG fan simply can not afford to not play it ( and since the whole series is available for a tenner , you do n't exactly have an excuse not to do so ! )	positive::strong::comparative::negative::negated::non-factual speech
-602	tackstrom	166	2	DUH ! ! ! IT 'S A FU ... FREAKING WESTERN GAME ! ! !	spelling::no-sentiment
+600	tackstrom	157	3	* Welcome to Earth * is a no holes barred pop dance explosion of the romantic strain ( more akin to camoflage , depeche mode , and alphaville than moby , prodigy or ministry ) , but offers up no limp wrists .	non-standard spelling::positive::difficult-vocab::idioms
+601	tackstrom	158	3	If Final Fantasy VII is considered the pinnacle of console RPGs , then Baldur 's Gate is most definetely considered the pinnacle of computer RPGs . This is simply one of the best series of games ever made , and any RPG fan simply can not afford to not play it ( and since the whole series is available for a tenner , you do n't exactly have an excuse not to do so ! )	positive::strong::comparative::negative::negated::modality
+602	tackstrom	166	2	DUH ! ! ! IT 'S A FU ... FREAKING WESTERN GAME ! ! !	non-standard spelling::no-sentiment
 603	tackstrom	168	2	There is a steep learning curve in this game , which can only partly be compensated by starting off with weak enemies .	no-sentiment::negative
 604	tackstrom	185	2	To me it seems as though EA Sports spent a rather large majority of their time developing this game from " scratch " on the graphics .	no-sentiment
-605	tackstrom	187	3	This literally ties the entire record together and makes you listen to it as a suite : not that the songs do n't stand by themselves , but this persistent note just keeps pulling you into the next one .	non-factual speech::negated::negative::positive::set-phrase
+605	tackstrom	187	3	This literally ties the entire record together and makes you listen to it as a suite : not that the songs do n't stand by themselves , but this persistent note just keeps pulling you into the next one .	modality::negated::negative::positive::idioms
 606	tackstrom	189	2	Well the title of this review says it all .	no-sentiment
 607	tackstrom	194	1	Giving it two stars is generous , and I was n't in the mood .	world-knowledge::sarcasm/irony::positive::negated
-608	tackstrom	213	3	It just won;t bore you .	negative::negated::spelling
-609	tackstrom	215	3	You got to be the scorpion king and learn to kick bad guy butt while also dishing out insults .	difficult-vocab::set-phrase::positive
+608	tackstrom	213	3	It just won;t bore you .	negative::negated::non-standard spelling
+609	tackstrom	215	3	You got to be the scorpion king and learn to kick bad guy butt while also dishing out insults .	difficult-vocab::idioms::positive
 610	tackstrom	219	3	I actually imagined myself amongst the pyramids and the Sphynx on the track ' Sphynx Lightening ' .	world-knowledge::positive
 611	tackstrom	222	1	For example , compare Eric 's lame take of " When You 've Got A Good Friend , " with Savoy Brown 's excellent version from their 1999 album Blues Keep Me Holding On . No contest : Guitarist Kim Simmonds and his famous Gibson Flying V fly circles around Eric 's rendition .	comparative
-612	tackstrom	232	1	And after all these years , we STILL get " Mexican Shuffle " in MONO !	spelling::desirable-element::negative
-613	tackstrom	237	1	And the remake of " Hellhound on My Trail , " Johnson 's signature tune ? ?	spelling::desirable-element
+612	tackstrom	232	1	And after all these years , we STILL get " Mexican Shuffle " in MONO !	non-standard spelling::desirable-element::negative
+613	tackstrom	237	1	And the remake of " Hellhound on My Trail , " Johnson 's signature tune ? ?	non-standard spelling::desirable-element
 614	tackstrom	238	2	They bring the rating up from a six , since the cut scenes do n't last long .	mixed
-615	tackstrom	244	1	The next time a company remakes a game for fans , THEY SHOULD ASK FIRST . BRING IT UP ON MORE FORUMS , WE WILL BE INTERESTED .	spelling::non-factual speech::positive
+615	tackstrom	244	1	The next time a company remakes a game for fans , THEY SHOULD ASK FIRST . BRING IT UP ON MORE FORUMS , WE WILL BE INTERESTED .	non-standard spelling::modality::positive
 616	tackstrom	246	2	This album is not as good nor accessible , but remains an enjoyable , second best .	mixed::comparative
-617	tackstrom	247	2	I do n't think people should dock it points because it 's the same game .	negative::set-phrase::negated
+617	tackstrom	247	2	I do n't think people should dock it points because it 's the same game .	negative::idioms::negated
 618	tackstrom	261	1	Let 's just say I 'm glad I rented .	sarcasm/irony
 619	tackstrom	279	3	I did n't experience any slow downs or others issues .	desirable-element::negative::negated
 620	tackstrom	283	3	Anata is one of those rare bands that has n't yet written a bad song .	desirable-element::negated::negative
@@ -623,16 +623,16 @@
 622	tackstrom	304	2	There 's this one mini - game with go - karts that has you think ' All I have to do is move the joystick and press A !	no-sentiment
 623	tackstrom	313	2	Most of the songs in this collection sound like club anthems that would be more at home on a Ministry of Sound collection of euro pop . Paul used to know how to mix soaring vocals with a killer beat so that both complimented one another perfectly ( Southern Sun from Bunkka is a great example of this ) .	no-sentiment
 624	tackstrom	316	3	Simple , but addicting .	positive
-625	tackstrom	335	3	Beginning with slow , chugging riffs , it is after the first verse that it kicks into high gear , harmonies running rampant .	positive::set-phrase
-626	tackstrom	348	3	The third song , " Under Azure Skies " , deserves a paragraph of its own .	positive::set-phrase
+625	tackstrom	335	3	Beginning with slow , chugging riffs , it is after the first verse that it kicks into high gear , harmonies running rampant .	positive::idioms
+626	tackstrom	348	3	The third song , " Under Azure Skies " , deserves a paragraph of its own .	positive::idioms
 627	tackstrom	350	3	-Make your own unique character from scratch in Baldur 's Gate 1 , and then after completing the first game , import them into Baldur 's Gate 2 for true continuity and continue the saga .	positive::desirable-element
 628	tackstrom	351	1	Awesome eh ?	sarcasm/irony
 629	tackstrom	372	2	Drop by your local gamestop and play the demo of this game .	no-sentiment
-630	tackstrom	381	3	We ca n't wait for Beethoven 's Wig 3 !	set-phrase::positive
+630	tackstrom	381	3	We ca n't wait for Beethoven 's Wig 3 !	idioms::positive
 631	tackstrom	390	3	That being said , NBA Live 10 is fan - freakin - tastic !	morphology::positive::strong
-632	tackstrom	392	1	In this day and age of today 's advanced digital technology , a golden opportunity to digitally remix and remaster some of the greatest music of the ' 60s , was missed .	desirable-element::positive::shifted
+632	tackstrom	392	1	In this day and age of today 's advanced digital technology , a golden opportunity to digitally remix and remaster some of the greatest music of the ' 60s , was missed .	desirable-element::positive::shifter
 633	tackstrom	408	3	They do stuff their own way .	positive::world-knowledge
-634	tackstrom	410	2	" Do n't believe the hype " I wanted to love this game so bad .	non-factual speech::positive
+634	tackstrom	410	2	" Do n't believe the hype " I wanted to love this game so bad .	modality::positive
 635	tackstrom	428	1	I think DDO will go the way of all turbine 's other MMORG AC2 but allot quicker than AC2 did as AC2 was fun to play at least for a bit .	world-knowledge::negative::comparative
 636	tackstrom	442	1	" Almost , but not quite " The game has a feel to it like CoV ( the quest / mission instance's)but with out the quickness and fun .	desirable-element::positive::negated
 637	tackstrom	458	2	Where is the Brad Paisley with the rockin ' guitar sound ?	no-sentiment
@@ -644,193 +644,193 @@
 643	tackstrom	484	3	-A horde of sidequests that can distract you from the main story - path for hours on end .	desirable-element::positive
 644	tackstrom	516	3	Controls : 10/10 Your usual for a FPS ..... You get your regular fire , then a special fire which can make you shoot faster on some guns ... you also got your open doors button ... then your move buttons ... and map ... and jump ... and so on .	world-knowledge::positive
 645	tackstrom	521	3	The intro has PS2 graphics !	positive::desirable-element
-646	tackstrom	532	3	And on the title track , ' Hyperborea ' , I could see myself on a barren yet breath - taking frozen landscape .	non-factual speech::positive::mixed
+646	tackstrom	532	3	And on the title track , ' Hyperborea ' , I could see myself on a barren yet breath - taking frozen landscape .	modality::positive::mixed
 647	tackstrom	537	2	Considering the fragile male ego , I would think that most guys want to feel smarter than the game - in - the - box , and would simply give up on this game .	no-sentiment
 648	tackstrom	542	2	Oh , and not just like one of them , but , like , dude , like hundreds , like yo ?	no-sentiment
-649	tackstrom	550	2	Controls : 5/10 Nothing really bad , typical GameBoy RPG controls , you 'll get used to them very quickly .	mixed::negative::negated::reduced
+649	tackstrom	550	2	Controls : 5/10 Nothing really bad , typical GameBoy RPG controls , you 'll get used to them very quickly .	mixed::negative::negated::reducer
 650	tackstrom	555	2	That backwater is likely the safest location in the game .	no-sentiment
-651	tackstrom	593	3	Story The plot is what really kept me fromlosing hope of this game .	spelling::negative::shifted::set-phrase
+651	tackstrom	593	3	Story The plot is what really kept me fromlosing hope of this game .	non-standard spelling::negative::shifter::idioms
 652	tackstrom	597	3	You really ca n't complain about the controls , since you can modify them to your liking .	negative::negated
 653	tackstrom	606	3	Story : 8/10 ( same as pretty much any western type anything ) You are a former marshal .... Bad ass dude ... Well , a bunch of people want your land , along with all the land surrounding you ... You kept refusing , so while you went to the store to pick up some supplies , and your wife 's perfume , they murder your wife , burn down your house , and kidnap your kid !	world-knowledge::positive::mixed
 654	tackstrom	632	2	Hearing all the songs I remember just brought nothing but memories .	no-sentiment
-655	tackstrom	660	2	I fail to see the new flaws to it that make it worse .	desirable-element::negative::shifted
-656	tackstrom	667	3	-Unlike the original releases , every part of the series is just 1 DVD , which creates a lot less hassle .	negative::desirable-element::reduced::comparative
-657	tackstrom	678	3	This record blows my mind .	set-phrase::positive
+655	tackstrom	660	2	I fail to see the new flaws to it that make it worse .	desirable-element::negative::shifter
+656	tackstrom	667	3	-Unlike the original releases , every part of the series is just 1 DVD , which creates a lot less hassle .	negative::desirable-element::reducer::comparative
+657	tackstrom	678	3	This record blows my mind .	idioms::positive
 658	tackstrom	681	2	When you opponents attack you see wat card they use , and then you can use your card , if your card 's number is higher you can break the opponents card , a 0 breaks anything but could be as easily broken by something higher .	no-sentiment
-659	tackstrom	685	3	I am looking forward to trying out GC2 , but from the reviews , it seems that the major enhancement is the ability to design ships .	set-phrase::positive
+659	tackstrom	685	3	I am looking forward to trying out GC2 , but from the reviews , it seems that the major enhancement is the ability to design ships .	idioms::positive
 660	tackstrom	697	3	Having used the CDs and having read the original book , I am also left wondering how " The Passion of Christ " a la Mel Gibson could use the Aramaic in order to present such a traditional conservative and violent view of the life and death of Jesus without leading the viewers into a more universal expression of compassion that is so evident in the CDs . Fully recommended	mixed::positive::amplified
 661	tackstrom	699	1	By comparison this game makes the transfer of Mass Effect from Xbox to PC look like a carefully designed masterpiece .	comparative::world-knowledge::negative
-662	tackstrom	706	1	If I could return it and get a refund I would .	non-factual speech::world-knowledge::negative
-663	thelwall	11	1	@Baby_Rinna I miss u!	desirable-element::positive::shifted
+662	tackstrom	706	1	If I could return it and get a refund I would .	modality::world-knowledge::negative
+663	thelwall	11	1	@Baby_Rinna I miss u!	desirable-element::positive::shifter
 664	thelwall	13	2	@MzXtremeClass lol ok thanks for telling me cuz I would've spilled the beans...*lips sealed*	no-sentiment
-665	thelwall	24	1	RT @elliottyamin: Oh shit!!..here come some more aftershox....sweet jesus,and baby jesus!! #Chile #TerremotoChile	spelling::negative::desirable-element
+665	thelwall	24	1	RT @elliottyamin: Oh shit!!..here come some more aftershox....sweet jesus,and baby jesus!! #Chile #TerremotoChile	non-standard spelling::negative::desirable-element
 666	thelwall	35	1	@DC_Zol Pricess Leia is going to be gutted! :-)	negative::sarcasm/irony::emoji
 667	thelwall	38	2	river trek Friday morning in preparation for the ecocamp! been years!	no-sentiment
-668	thelwall	39	3	@lusummers "GO THE #FAVOURS" I wouldn't be ashamed just be prepared!!! lol	spelling
+668	thelwall	39	3	@lusummers "GO THE #FAVOURS" I wouldn't be ashamed just be prepared!!! lol	non-standard spelling
 669	thelwall	50	1	@cspeters sunova! I'm losing all my 'tukee mayorships since I've moved away :(	emoji::negative
-670	thelwall	60	2	RT @Armida15: @DisneyReporters wao! you profile is amazing = SELENA GOMEZ. @selenagomez Your fans like and respect me more than you do.	mixed::sarcasm/irony::spelling
+670	thelwall	60	2	RT @Armida15: @DisneyReporters wao! you profile is amazing = SELENA GOMEZ. @selenagomez Your fans like and respect me more than you do.	mixed::sarcasm/irony::non-standard spelling
 671	thelwall	81	2	RT @ralphmarston: Happiness is not in some distant place of perfection and pleasure. Happiness is waiting for you to give it life in this moment.	no-sentiment
 672	thelwall	82	1	Lasted 40mins in town. Got presents. Too many, infact.. Actually soaked now because I thought I'd take the healthy option & walk. Hot.	negative
-673	thelwall	92	1	I NEED 30 more min me sleep..... but I guess not - cause that would make me late to work!	spelling::desirable-element::positive::shifted
+673	thelwall	92	1	I NEED 30 more min me sleep..... but I guess not - cause that would make me late to work!	non-standard spelling::desirable-element::positive::shifter
 674	thelwall	94	2	I'm trying to give justin bieber a chance but its not working.	mixed
 675	thelwall	103	1	CAN'T SLEEP..: http://chatter.com/a/1vhqf	desirable-element::positive::negated
-676	thelwall	106	1	#shoutout 2 ma charger that jus disapated in thin air jus now..just as I needed it!	spelling::sarcasm/irony
-677	thelwall	117	1	tmr gonna repeat again, except for the gym part. i gave up a super tempting job for SHINee. im so money deprived. AHHH!! :(	spelling::emoji::negative::set-phrase
-678	thelwall	121	1	Am I rdy 2 go back 2 Cali so soon after grandma passin away?? Don't know if a stop 2 Cali after Cabo is a good idea but I miss my fam. =(	spelling::emoji
+676	thelwall	106	1	#shoutout 2 ma charger that jus disapated in thin air jus now..just as I needed it!	non-standard spelling::sarcasm/irony
+677	thelwall	117	1	tmr gonna repeat again, except for the gym part. i gave up a super tempting job for SHINee. im so money deprived. AHHH!! :(	non-standard spelling::emoji::negative::idioms
+678	thelwall	121	1	Am I rdy 2 go back 2 Cali so soon after grandma passin away?? Don't know if a stop 2 Cali after Cabo is a good idea but I miss my fam. =(	non-standard spelling::emoji
 679	thelwall	126	2	@Dee_Tofog I didn't know, I just remember it from Carlin. Thanks for the info though!	no-sentiment
-680	thelwall	127	2	RT @slmandel: For the #LOST fans ... RT @CarltonCuse: Don't miss tonight's episode. A number of things are illuminated.	spelling::no-sentiment
-681	thelwall	133	1	RT @tokyodymond_HLE: ii am leaveinq ; n imma delete my twitter ; n who wants my photoshop? <---ill take it :)	spelling::emoji
-682	thelwall	136	1	@J3NPR0 Thanks for the short chat. Sorry I had to bail. 9 hours of work is nearly impossible to get through when I don't get enough sleep.	negative::set-phrase
-683	thelwall	144	2	@onthecomp09 Girl you have been soo lost!!! I havent seen you in 2 months. Hope all is well. Love you!	spelling::desirable-element::positive::negated
-684	thelwall	161	1	RT @sannyhalim: miss my frnds in a sudden.Ijustdon't want farewell cmes that fast.It's like in just 2 months we have to say bye to each othr	spelling::negative::desirable-element
-685	thelwall	173	2	RT @LuvChocolateBar: The most memorable people in life will be the people who loved you when you weren?t very lovable.	spelling::no-sentiment
-686	thelwall	175	1	uqhh moms just left me home wid my sisters smhh	spelling::desirable-element::negative
-687	thelwall	206	2	@MizTosha yeaa I was tortured fa real haha...wut u doin?	spelling::no-sentiment
+680	thelwall	127	2	RT @slmandel: For the #LOST fans ... RT @CarltonCuse: Don't miss tonight's episode. A number of things are illuminated.	non-standard spelling::no-sentiment
+681	thelwall	133	1	RT @tokyodymond_HLE: ii am leaveinq ; n imma delete my twitter ; n who wants my photoshop? <---ill take it :)	non-standard spelling::emoji
+682	thelwall	136	1	@J3NPR0 Thanks for the short chat. Sorry I had to bail. 9 hours of work is nearly impossible to get through when I don't get enough sleep.	negative::idioms
+683	thelwall	144	2	@onthecomp09 Girl you have been soo lost!!! I havent seen you in 2 months. Hope all is well. Love you!	non-standard spelling::desirable-element::positive::negated
+684	thelwall	161	1	RT @sannyhalim: miss my frnds in a sudden.Ijustdon't want farewell cmes that fast.It's like in just 2 months we have to say bye to each othr	non-standard spelling::negative::desirable-element
+685	thelwall	173	2	RT @LuvChocolateBar: The most memorable people in life will be the people who loved you when you weren?t very lovable.	non-standard spelling::no-sentiment
+686	thelwall	175	1	uqhh moms just left me home wid my sisters smhh	non-standard spelling::desirable-element::negative
+687	thelwall	206	2	@MizTosha yeaa I was tortured fa real haha...wut u doin?	non-standard spelling::no-sentiment
 688	thelwall	211	3	RT @trudydehacker: six sixes in an over, 200 runs in ODI, 10 wickets in an inning, max fours in ODi, max runs in ODI and test - all records belong to INDIA !!	desirable-element::positive
-689	thelwall	215	2	I miss you too twin @NiaGalvin!! I'll be over in a few hun	positive::desirable-element::shifted::mixed
-690	thelwall	217	1	Honest time: I hate some of my a$$ hole managers. Never felt this way towards my boss ever before!! I miss green bay bby	spelling::negative::strong
+689	thelwall	215	2	I miss you too twin @NiaGalvin!! I'll be over in a few hun	positive::desirable-element::shifter::mixed
+690	thelwall	217	1	Honest time: I hate some of my a$$ hole managers. Never felt this way towards my boss ever before!! I miss green bay bby	non-standard spelling::negative::strong
 691	thelwall	218	3	@eemeer the oral is so easy! who are you doing it on mr.bean?	positive::amplified
-692	thelwall	260	1	Still sick. Coughin up a lung at this point, but I got things to do later. Gotta make it work	desirable-element::negative::set-phrase
-693	thelwall	266	1	RT @MoneAlicia: @IAMSEANO Jealous....I need to be having breakfast with u. << All gone :)	negative::emoji::spelling
+692	thelwall	260	1	Still sick. Coughin up a lung at this point, but I got things to do later. Gotta make it work	desirable-element::negative::idioms
+693	thelwall	266	1	RT @MoneAlicia: @IAMSEANO Jealous....I need to be having breakfast with u. << All gone :)	negative::emoji::non-standard spelling
 694	thelwall	289	2	so much work so staying up all night... thank goodness for my beatles lp	mixed
-695	thelwall	296	1	.find() with simple :join: Hello all, I about to pull my hair out. I have two models "Activities" and "Activity_... http://bit.ly/aUTmVI	spelling::set-phrase::negative
-696	thelwall	302	1	@illmaticTokyo Yeaaa I feel it...Niggas in the south go bizzerck in cold weather! Lmao...I step outside and its cold as fuck! Lol...not warm	desirable-element::negative::spelling
-697	thelwall	315	2	#Iremember when I first saw #PokerFace by #LadyGaGa i thought it was wack but i love it #ABDC	spelling::mixed
-698	thelwall	321	1	@TheSteveWoods Hi Steve, all Twitopia. Yes, had meeting today then hung with daughter. Ian home now...am writing. YUCK.	spelling::mixed
-699	thelwall	325	1	Q:y r u awake? A:because im bored and cnt sleep =[ help http://formspring.me/AurenixRTM/q/200091136	spelling::negative
-700	thelwall	333	1	@simplyme4you so? you always make tweets about tila, if you don't like her why you do that? OH I KNOW THE ANSWER YOU LOVE TILA!@officialtila	sarcasm/irony::spelling
+695	thelwall	296	1	.find() with simple :join: Hello all, I about to pull my hair out. I have two models "Activities" and "Activity_... http://bit.ly/aUTmVI	non-standard spelling::idioms::negative
+696	thelwall	302	1	@illmaticTokyo Yeaaa I feel it...Niggas in the south go bizzerck in cold weather! Lmao...I step outside and its cold as fuck! Lol...not warm	desirable-element::negative::non-standard spelling
+697	thelwall	315	2	#Iremember when I first saw #PokerFace by #LadyGaGa i thought it was wack but i love it #ABDC	non-standard spelling::mixed
+698	thelwall	321	1	@TheSteveWoods Hi Steve, all Twitopia. Yes, had meeting today then hung with daughter. Ian home now...am writing. YUCK.	non-standard spelling::mixed
+699	thelwall	325	1	Q:y r u awake? A:because im bored and cnt sleep =[ help http://formspring.me/AurenixRTM/q/200091136	non-standard spelling::negative
+700	thelwall	333	1	@simplyme4you so? you always make tweets about tila, if you don't like her why you do that? OH I KNOW THE ANSWER YOU LOVE TILA!@officialtila	sarcasm/irony::non-standard spelling
 701	thelwall	336	2	Tequila, after 8 hours of brutal business expo shmooze, you make me human again.	no-sentiment
 702	thelwall	339	1	it's so hot! this el nino is becoming more and more intolerable..	negative::comparative
-703	thelwall	346	1	University websites have soooo much information! Not my favorite to design, but man is it an ever-going learning experience!	spelling::mixed
-704	thelwall	348	2	@officiallymari oh em geee ! You came to the rescue ! Thankk youuu Lmao dude I been trying for the past 2hrs I cnt (insomnia) lol	spelling::no-sentiment
+703	thelwall	346	1	University websites have soooo much information! Not my favorite to design, but man is it an ever-going learning experience!	non-standard spelling::mixed
+704	thelwall	348	2	@officiallymari oh em geee ! You came to the rescue ! Thankk youuu Lmao dude I been trying for the past 2hrs I cnt (insomnia) lol	non-standard spelling::no-sentiment
 705	thelwall	366	1	RT @SunshynAndPain My tummy hurts =[ {hope you feel better}	emoji::desirable-element::negative
 706	thelwall	373	2	RT @SnookeyBaby: Sigh* :) ---whts the matter?	emoji::no-sentiment
-707	thelwall	382	2	Q:bri why the fuck do you have to be so bl... A:Omfg, black gils represent!<3 I love youuuu http://formspring.me/briskellingtonx/q/235249548	spelling::mixed
-708	thelwall	392	1	GRRRRRRRAAAAAAHHHHH! GODD@$# MAYA! WHY WONT YOU WORK FOR ME?! :( I really need to see if I can get a tutor to help me learn this stuff. :(	spelling::emoji::negative
+707	thelwall	382	2	Q:bri why the fuck do you have to be so bl... A:Omfg, black gils represent!<3 I love youuuu http://formspring.me/briskellingtonx/q/235249548	non-standard spelling::mixed
+708	thelwall	392	1	GRRRRRRRAAAAAAHHHHH! GODD@$# MAYA! WHY WONT YOU WORK FOR ME?! :( I really need to see if I can get a tutor to help me learn this stuff. :(	non-standard spelling::emoji::negative
 709	thelwall	393	1	7 am phone call - can I substitute at Little Girl's school AGAIN? Coming on the heels of tax season AND subbing last week, I'm not pleased.	positive::negated
-710	thelwall	417	3	It looked like the RT_Steve_Jobs test worked. You must be human!	spelling
+710	thelwall	417	3	It looked like the RT_Steve_Jobs test worked. You must be human!	non-standard spelling
 711	thelwall	430	2	I shouldn't have ~that NME awards interview on my TK playlist... it makes me laugh so much when I'm on the bus/in public x)	no-sentiment
-712	thelwall	436	1	@LH2450 I could beat you even if you cut off my arms and legs #YouIsAWeenie	spelling::negative
+712	thelwall	436	1	@LH2450 I could beat you even if you cut off my arms and legs #YouIsAWeenie	non-standard spelling::negative
 713	thelwall	440	2	Have been churched. @PastorMark, as always, had some needed harsh words. In the meantime, Matt & I have decimated a rotisserie chicken.	no-sentiment
-714	thelwall	444	1	@Momodel180 pssshh yal bugging I never shovel snow a day in my life!!! Lol	negative::spelling
-715	thelwall	450	2	@TheEllenShow I would love an adorable single fireman I would be crazy not to	non-factual speech::positive::no-sentiment
-716	thelwall	455	1	RT @DeeMagicJuan @MzBDominique I fell asleep in the parkinglot lmao<< Wtf!! U only had 2 beers Juan!!! Lmao! Wow! #lightweight	negative::spelling::sarcasm/irony
+714	thelwall	444	1	@Momodel180 pssshh yal bugging I never shovel snow a day in my life!!! Lol	negative::non-standard spelling
+715	thelwall	450	2	@TheEllenShow I would love an adorable single fireman I would be crazy not to	modality::positive::no-sentiment
+716	thelwall	455	1	RT @DeeMagicJuan @MzBDominique I fell asleep in the parkinglot lmao<< Wtf!! U only had 2 beers Juan!!! Lmao! Wow! #lightweight	negative::non-standard spelling::sarcasm/irony
 717	thelwall	458	2	@KindaRaedell hahaha i suck too thats why i have to keep playing!	mixed
-718	thelwall	473	1	Ugh! If I am up past midnight tonight, take away my Internet!! Also? Not talk to @an_an0maly and @the_girl_20 today :(	emoji::negative::spelling
+718	thelwall	473	1	Ugh! If I am up past midnight tonight, take away my Internet!! Also? Not talk to @an_an0maly and @the_girl_20 today :(	emoji::negative::non-standard spelling
 719	thelwall	479	1	im sleeepy geezz wiizzz bt i wanna go to the mall ima tell my babe @marito415 to take me =)	negative::emoji::mixed
-720	thelwall	486	1	Why cant I ever wake up n say "good morning everyone" *kicking rocks with an attitude* its always "good afternoon" which I cut dwn to wussup	spelling::desirable-element::positive::negated
-721	thelwall	487	1	RT @OlDirtyDennis: #realthugs dont eat icecream on a cone. ever. Lmao	sarcasm/irony::negative::spelling
-722	thelwall	489	1	@gauravkapur You missed meeting me and watching Anushkas performance:-(	emoji::desirable-element::positive::shifted
-723	thelwall	507	1	no gas and no money until the 5th of march. I can't even make it home for Spring break...............*exhausted sigh*	desirable-element::positive::negated::spelling
-724	thelwall	509	1	Damn man ! I shouldve called earlier . The karoke contest started 2 hrs ago ... Ughh :(??R	emoji::spelling::negative
-725	thelwall	510	1	Oh gee thanks @twitter for changing my BRAND NEW PASSWORD so I could set up ANOTHER brand new password.	spelling::sarcasm/irony
-726	thelwall	515	3	Its time you changed direction! This is the answer! It'll blow your socks off! http://profusionXis4me.info	set-phrase::positive::strong
+720	thelwall	486	1	Why cant I ever wake up n say "good morning everyone" *kicking rocks with an attitude* its always "good afternoon" which I cut dwn to wussup	non-standard spelling::desirable-element::positive::negated
+721	thelwall	487	1	RT @OlDirtyDennis: #realthugs dont eat icecream on a cone. ever. Lmao	sarcasm/irony::negative::non-standard spelling
+722	thelwall	489	1	@gauravkapur You missed meeting me and watching Anushkas performance:-(	emoji::desirable-element::positive::shifter
+723	thelwall	507	1	no gas and no money until the 5th of march. I can't even make it home for Spring break...............*exhausted sigh*	desirable-element::positive::negated::non-standard spelling
+724	thelwall	509	1	Damn man ! I shouldve called earlier . The karoke contest started 2 hrs ago ... Ughh :(??R	emoji::non-standard spelling::negative
+725	thelwall	510	1	Oh gee thanks @twitter for changing my BRAND NEW PASSWORD so I could set up ANOTHER brand new password.	non-standard spelling::sarcasm/irony
+726	thelwall	515	3	Its time you changed direction! This is the answer! It'll blow your socks off! http://profusionXis4me.info	idioms::positive::strong
 727	thelwall	524	1	@AngeloSurmelis hey! You should got in touch with me!!! U could have come in and pushed your product!!! Surmelis...FAIL. ;-)	emoji::negative
-728	thelwall	533	2	RT @MsKChurch: @ChiquitaTavara Are you legally and truly married? I'm confused...<---yes papers r involved	no-sentiment::spelling
-729	thelwall	535	1	FML for being in the real world... Going to work everyday is so over rated!!!! Can't wait to get back on school #medschool here I come lol	spelling::negative
+728	thelwall	533	2	RT @MsKChurch: @ChiquitaTavara Are you legally and truly married? I'm confused...<---yes papers r involved	no-sentiment::non-standard spelling
+729	thelwall	535	1	FML for being in the real world... Going to work everyday is so over rated!!!! Can't wait to get back on school #medschool here I come lol	non-standard spelling::negative
 730	thelwall	537	1	@CourtneySit my kitchen's so tiny if I don't put them away I have to walk on tippy-toe around my lounge to get anywhere	negative
-731	thelwall	541	2	Lookinggggg A HotMess, Still Want To Seee My BD Though. I Lovee That Boy.	spelling::mixed
-732	thelwall	549	1	RT @@ayasnastiti: Wooyyy !!! Tell all I'm in BADMOOD . http://myloc.me/4wEmi	spelling::negative
+731	thelwall	541	2	Lookinggggg A HotMess, Still Want To Seee My BD Though. I Lovee That Boy.	non-standard spelling::mixed
+732	thelwall	549	1	RT @@ayasnastiti: Wooyyy !!! Tell all I'm in BADMOOD . http://myloc.me/4wEmi	non-standard spelling::negative
 733	thelwall	554	1	@suziwong66 also the credit music from Avril Lavigne was awfully jarring - was not and am not a fan of hers!	strong::negative
 734	thelwall	561	1	@judsonb Thanks you ruined the show for me now...j/k	sarcasm/irony::negative
-735	thelwall	588	1	Ughh my tweet was too longggg and they shortened it	spelling::negative
+735	thelwall	588	1	Ughh my tweet was too longggg and they shortened it	non-standard spelling::negative
 736	thelwall	599	1	I don't like royal flush on ABDC .. they're wack !	positive::negated::negative
 737	thelwall	606	1	@craigjettech but I really not like the spring in Macau, it's too wet!!	negative::amplified
 738	thelwall	608	1	This place is dead. Finishing my beer that was bought for me and moving on!! Ha	negative
-739	thelwall	619	1	I do miss my bf!! :( ahh! "Life really does suk and then u die". Gotta luv my optimism and now my phones dying.	emoji::negative::desirable-element::positive::shifted
-740	thelwall	623	3	RT @MARLONLWAYANS: #HowToBeAMan don't call a woman you had sex w/ ahoe. she gave your needy ass pussy. she's a HERO!<--lmao.	spelling::sarcasm/irony::mixed
+739	thelwall	619	1	I do miss my bf!! :( ahh! "Life really does suk and then u die". Gotta luv my optimism and now my phones dying.	emoji::negative::desirable-element::positive::shifter
+740	thelwall	623	3	RT @MARLONLWAYANS: #HowToBeAMan don't call a woman you had sex w/ ahoe. she gave your needy ass pussy. she's a HERO!<--lmao.	non-standard spelling::sarcasm/irony::mixed
 741	thelwall	629	2	@Ghetto_Chic you may hurt again,or you may be liberated from the hurt	mixed
-742	thelwall	633	1	On a quest for Chinese food. And it's veryyyy unsuccessful. It shouldn't be this hard to find Asian food lol	spelling::negative::amplified
-743	thelwall	635	1	RT @louiseblack: arg! True Blood season 3 is set to come out in June this year. That's soooo long to have to wait.	spelling::negative::amplified
+742	thelwall	633	1	On a quest for Chinese food. And it's veryyyy unsuccessful. It shouldn't be this hard to find Asian food lol	non-standard spelling::negative::amplified
+743	thelwall	635	1	RT @louiseblack: arg! True Blood season 3 is set to come out in June this year. That's soooo long to have to wait.	non-standard spelling::negative::amplified
 744	thelwall	636	1	@solarfund That's so sad! RIP Walt Ratterman.....my heartfelt sympathy to his family, friends and colleagues.	negative::amplified
 745	thelwall	645	1	I am very Sad & Frustrated to See The Fan-made KQ Game shut down - In the past I saw Screens and other media -- It was pretty awesome	negative::mixed
-746	thelwall	646	1	@PorshaWright Good, just trying to see if I get lucky today with the Tito time, lol missed it yesterday he was on later than ususal :(	emoji::positive::desirable-element::shifted
-747	thelwall	652	1	@vyshnavi ohh.. that is waaayyy tooooo long.. I need sleep and I need it now	spelling::positive::desirable-element::shifted
+746	thelwall	646	1	@PorshaWright Good, just trying to see if I get lucky today with the Tito time, lol missed it yesterday he was on later than ususal :(	emoji::positive::desirable-element::shifter
+747	thelwall	652	1	@vyshnavi ohh.. that is waaayyy tooooo long.. I need sleep and I need it now	non-standard spelling::positive::desirable-element::shifter
 748	thelwall	655	1	My knee hurts so badly. frick!	negative
-749	thelwall	678	1	:| I can't wait to move out, just so I can decorate and have a decent looking, tidy, clean house/flat, instead of this shithole.	emoji::negative::positive::desirable-element::shifted::set-phrase
+749	thelwall	678	1	:| I can't wait to move out, just so I can decorate and have a decent looking, tidy, clean house/flat, instead of this shithole.	emoji::negative::positive::desirable-element::shifter::idioms
 750	thelwall	686	1	Wow worst movie ever so so so boring but thanks dad for the quality time lol now what to do hmmm	mixed::amplified::negative::strong
-751	thelwall	690	1	Lunch at Hard Rock Cafe, a place I will never go to again. My soul is waiting outside for me to finish.	set-phrase::negative::strong
+751	thelwall	690	1	Lunch at Hard Rock Cafe, a place I will never go to again. My soul is waiting outside for me to finish.	idioms::negative::strong
 752	thelwall	697	2	Thanks babe I try RT @JAJUANJ: @PhenomenalLTL that sucks u 1 hell of a lady mama. You hold up when most ppl find a reason to complain	mixed
 753	thelwall	701	2	Justin Bieber about Oscars - http://bit.ly/bROltD - he damn the Happy Women's Day!	no-sentiment
 754	thelwall	704	2	Made it to work, printing out a KRS... BLAH! Missing his baby like crazy! I love you! Always and Forever!	mixed
-755	thelwall	706	1	I have spent all day dealing with computer issues. Grrrr!	desirable-element::negative::spelling
+755	thelwall	706	1	I have spent all day dealing with computer issues. Grrrr!	desirable-element::negative::non-standard spelling
 756	thelwall	711	1	@pocketkip Hahahaha! If you wanted to be extra bitchy, you could've streamed it via UStream!	negative
-757	thelwall	713	1	PORN!?! Shit WONT be E Z my G! Trust me i TRIED! RT @overtheFame I think I know what I am giving up for Lent...it won'... http://3.ly/3uC	positive::negated::spelling
+757	thelwall	713	1	PORN!?! Shit WONT be E Z my G! Trust me i TRIED! RT @overtheFame I think I know what I am giving up for Lent...it won'... http://3.ly/3uC	positive::negated::non-standard spelling
 758	thelwall	727	1	@Karoline__Z I'd come back and get you but have to read to my little boy - pox is bad	negative
 759	thelwall	737	2	i fux with chowder!! i stopped watchin the lakers for this... haha	no-sentiment
-760	thelwall	741	1	@hencehemmo you havea cold. it's be RUDE not to	spelling::negative
-761	thelwall	745	1	RT @Tiana2Hot: #petpeeve ppl being over-affectionate in front of me..its not me hating it just makes me sick!..Ex:"no I luv u snookie bear..ooh yes I do"	spelling::negative::morphology
+760	thelwall	741	1	@hencehemmo you havea cold. it's be RUDE not to	non-standard spelling::negative
+761	thelwall	745	1	RT @Tiana2Hot: #petpeeve ppl being over-affectionate in front of me..its not me hating it just makes me sick!..Ex:"no I luv u snookie bear..ooh yes I do"	non-standard spelling::negative::morphology
 762	thelwall	750	1	@ramsin_taffles yeah i'll be away 10th-17th. i'm so worried! i hope shes here before the 5th but after the 1st :P haha	negative::emoji::mixed
 763	thelwall	765	1	Anahi is the worst thing I have ever seen in Vi?a del Mar... Let her know she is don`t sing lol....	negative::strong::comparative
-764	thelwall	766	1	@armaghetto ugh... if i have too much of the gogo juice i get a bad stomach ache	non-factual speech::negative::desirable-element
+764	thelwall	766	1	@armaghetto ugh... if i have too much of the gogo juice i get a bad stomach ache	modality::negative::desirable-element
 765	thelwall	785	1	Sometimes my wife & I are totally incompatible! We're in the Apple store and I'm NOT allowed to buy an iMac . What a beeeeeech ;)	emoji::negative::amplified
-766	thelwall	786	1	Is super sad you leave tomarrow. Hurry and come back, I miss you already.	negative::desirable-element::positive::shifted
-767	thelwall	790	1	Just realized a friend is off the wagon in a big way - sad;-(	emoji::negative::set-phrase
+766	thelwall	786	1	Is super sad you leave tomarrow. Hurry and come back, I miss you already.	negative::desirable-element::positive::shifter
+767	thelwall	790	1	Just realized a friend is off the wagon in a big way - sad;-(	emoji::negative::idioms
 768	thelwall	791	2	How can i decorate a room just like this nice ?! ):	emoji::no-sentiment
 769	thelwall	802	1	White Knight Chronicles: Possibly one of the worst games ever made	negative::strong::comparative
 770	thelwall	805	2	Omg i cant wait 2 graduate and move the hell outa this state. i love ya chicago but goodbye winters	mixed
 771	thelwall	809	1	So tired! First week back to work and I've had to start before 8am the last 4 days. Big sleep planned for tomorrow	negative::amplified
-772	thelwall	811	1	WISH i could be at the talent show right now. but I have the worst sore throat everrr	spelling::non-factual speech::negative::desirable-element::strong::comparative
+772	thelwall	811	1	WISH i could be at the talent show right now. but I have the worst sore throat everrr	non-standard spelling::modality::negative::desirable-element::strong::comparative
 773	thelwall	822	2	@johnadewusi hissss...I hate to admit it but I liked her a lot on sweet dreams remix with weezy	mixed
 774	thelwall	823	1	@YumSexy i think im in a drought! lol	mixed::desirable-element::negative
 775	thelwall	826	2	@jaymepoo I thought you had changed it just because of your current state. Haha. Enjoy your weekend Hun. Hope you can shower soon.	no-sentiment
-776	thelwall	831	2	oh twitter ive missed u so much!when im not on twitter my heart feel in complete.oh how i <3 yall so	spelling::mixed
-777	thelwall	845	1	Tearing the place apart to find my lost library book which is right here, on the arm of my couch. LOL. Jeeeez.	spelling::world-knowledge::negative
+776	thelwall	831	2	oh twitter ive missed u so much!when im not on twitter my heart feel in complete.oh how i <3 yall so	non-standard spelling::mixed
+777	thelwall	845	1	Tearing the place apart to find my lost library book which is right here, on the arm of my couch. LOL. Jeeeez.	non-standard spelling::world-knowledge::negative
 778	thelwall	859	1	Lights flickering in the office - could it be an impending power cut? Save work now!!!	desirable-element::negative
-779	thelwall	865	2	@GordonRamsay01 Chef, you're a very gif-able guy: http://tiny.cc/5QVzU http://tiny.cc/Er8ZT I've made too many. :D	no-sentiment::spelling
+779	thelwall	865	2	@GordonRamsay01 Chef, you're a very gif-able guy: http://tiny.cc/5QVzU http://tiny.cc/Er8ZT I've made too many. :D	no-sentiment::non-standard spelling
 780	thelwall	869	1	After these shows I'm callin it a early nite, been up early and already gettin sleepy!!	negative
 781	thelwall	871	2	Ahhhh the good ol' smoke ting and pass out method thanks @MrGeography	no-sentiment
-782	thelwall	879	1	http://www.youtube.com/watch?v=UXxRyNvTPr8 #nowplaying one sweet day... damn i miss the ones ive lost <3 1.4.10 <3 2.4.09 <3 5.26.08	spelling::positive::desirable-element::shifted
+782	thelwall	879	1	http://www.youtube.com/watch?v=UXxRyNvTPr8 #nowplaying one sweet day... damn i miss the ones ive lost <3 1.4.10 <3 2.4.09 <3 5.26.08	non-standard spelling::positive::desirable-element::shifter
 783	thelwall	882	1	OH SNAP. my 6 year old cousin snores SO loud.	negative::amplified
 784	thelwall	896	1	All of a sudden I feel incredibly lonely...I blame the cold weather and hormones...and V-day...damnit, where are my pills?	negative::amplified
-785	thelwall	903	1	ive done all my homework for the holidays from maths. and i really cba doing the maths homework :| argh.	emoji::negative::spelling::set-phrase
+785	thelwall	903	1	ive done all my homework for the holidays from maths. and i really cba doing the maths homework :| argh.	emoji::negative::non-standard spelling::idioms
 786	thelwall	906	2	@JenAnsbach haha i will follow more people when i get better at this whole twitter thing. you have a good weekend too :)	emoji::no-sentiment
 787	thelwall	918	2	@SaireBennetto Aww dammit! Lol its in the post!! =P	emoji::no-sentiment
 788	thelwall	932	2	I need to act upon my feelings. Even if my feelings tell me to distance myself from a person I love or have love for. Its for the best.	no-sentiment
 789	thelwall	934	2	1000$ Walmart Gift Card! Limited offer! See Details http://bit.ly/98ONH1 #shininghongstar Asian Network BBC Chile	no-sentiment
-790	thelwall	947	1	@Labiba_ aww hope you ain't too stressed. Do take time to try and chill :)	emoji::non-factual speech::negative::negated::amplified
-791	thelwall	959	1	#whatsworsethan walkin in late to class and havin to sit in the front when u the only negro in there	spelling::negative::strong::comparative
-792	thelwall	965	1	THIS BUSH HERE AND ITLL BE OUR LITTLE SECRET.... IF YOU TELL ANYONE THAT ITS THERE ILL COME TO YOUR HOUSE AND I WILL CUT YOU!	spelling::negative
-793	thelwall	969	1	@mgilchr see now get outta MY neck o the woods!!!!	spelling::negative::set-phrase
+790	thelwall	947	1	@Labiba_ aww hope you ain't too stressed. Do take time to try and chill :)	emoji::modality::negative::negated::amplified
+791	thelwall	959	1	#whatsworsethan walkin in late to class and havin to sit in the front when u the only negro in there	non-standard spelling::negative::strong::comparative
+792	thelwall	965	1	THIS BUSH HERE AND ITLL BE OUR LITTLE SECRET.... IF YOU TELL ANYONE THAT ITS THERE ILL COME TO YOUR HOUSE AND I WILL CUT YOU!	non-standard spelling::negative
+793	thelwall	969	1	@mgilchr see now get outta MY neck o the woods!!!!	non-standard spelling::negative::idioms
 794	thelwall	970	1	To be quite frank. I'm extremely brittle right now. That is all.	negative::amplified
-795	thelwall	994	1	i'm gettin uuber pissed @huggies. i won their contest and now they wont follow me so i can get my prize	negative::amplified::spelling
-796	thelwall	1001	2	@Ash_Stackz OH SHIT.. WELL I WAS POPP'N B4 POPP'N WAS THE THING TO BE... OK YOUNGPUNK.. SO #STOPIT5	spelling::no-sentiment
-797	thelwall	1014	1	#imtiredof this SNOW and COLD weather!!!	spelling::negative::desirable-element
+795	thelwall	994	1	i'm gettin uuber pissed @huggies. i won their contest and now they wont follow me so i can get my prize	negative::amplified::non-standard spelling
+796	thelwall	1001	2	@Ash_Stackz OH SHIT.. WELL I WAS POPP'N B4 POPP'N WAS THE THING TO BE... OK YOUNGPUNK.. SO #STOPIT5	non-standard spelling::no-sentiment
+797	thelwall	1014	1	#imtiredof this SNOW and COLD weather!!!	non-standard spelling::negative::desirable-element
 798	thelwall	1026	1	Brrr forgot to turn my heater on in my room so now it's freezing!! Looks like I'm guna be sleeping under my duvet tonight :P	negative::emoji
-799	thelwall	1032	1	I live my life just like a robot. always doing the same thing everyday and I'm SO SICK OF THIS for my godsake.	spelling::negative::amplified
+799	thelwall	1032	1	I live my life just like a robot. always doing the same thing everyday and I'm SO SICK OF THIS for my godsake.	non-standard spelling::negative::amplified
 800	thelwall	1042	2	@PaytonHeaney Hey sweet, u unfollow me? /O\ :*	no-sentiment
 801	thelwall	1043	2	Has finally managed to scrub off the army body from my arms lol stupid stuff	no-sentiment
-802	thelwall	1045	1	im only 16 and i already have wrinkles ;_; i need to stop scrunching my 4head and get antiwrinkle cream STAT	spelling::negative::desirable-element
+802	thelwall	1045	1	im only 16 and i already have wrinkles ;_; i need to stop scrunching my 4head and get antiwrinkle cream STAT	non-standard spelling::negative::desirable-element
 803	thelwall	1050	1	@JoshLebron I can't that day , cuz it's my dads bday too and mothers day ! :(	negative::emoji
 804	thelwall	1051	1	Las year I was so stressed out I forgot I was my birthday. Didn't figure it out til 730 that night. My bad.	negative
-805	thelwall	1052	1	Watching the first snow fall for us and wanting to be a together as a family enjoying it.... cancer SUCKS	spelling::negative::strong
-806	thelwall	1060	1	This one? Or is my smile gayyyy? http://tweetphoto.com/13139779	spelling::negative
+805	thelwall	1052	1	Watching the first snow fall for us and wanting to be a together as a family enjoying it.... cancer SUCKS	non-standard spelling::negative::strong
+806	thelwall	1060	1	This one? Or is my smile gayyyy? http://tweetphoto.com/13139779	non-standard spelling::negative
 807	thelwall	1061	1	Guess i was not enough=(	emoji::negative::positive::negated
 808	thelwall	1071	2	@alyshanett Omg that photo of me is horrendous!! I want to shoot, you're getting really good! I love the exposed film!	negative::strong::mixed
-809	thelwall	1077	3	Ok so I Clearly spent over my Budget! :o( but I'm HAPPY! ?	mixed::spelling::positive::emoji
-810	thelwall	1095	1	RT @HeavyHand Where is the, where is the, where is the TOILET TISSUE???? FUCK!!!!!!<~~~it's OK, you've been blessed with 2 hands..pick 1	positive::desirable-element::shifted
+809	thelwall	1077	3	Ok so I Clearly spent over my Budget! :o( but I'm HAPPY! ?	mixed::non-standard spelling::positive::emoji
+810	thelwall	1095	1	RT @HeavyHand Where is the, where is the, where is the TOILET TISSUE???? FUCK!!!!!!<~~~it's OK, you've been blessed with 2 hands..pick 1	positive::desirable-element::shifter
 811	thelwall	1100	2	And With That Said... I Know What Im Doin 4 #V-Day! I'm Workin That Day! Paper Is Worth More Than Love In My Book!	no-sentiment
 812	thelwall	1101	1	Urgh i'm soo bored and tired. text. call, anything. hmm i must find things to multi task on now!	amplified::negative
 813	thelwall	1128	2	#ThingsWeWantBack NaS the way he was rhymin in 94. Niggas couldn't fuck with him, no way, no how. I don't give a fuck who says what	mixed
-814	thelwall	1133	1	@sierrajohaha cousin!!! Come back and party w us! I miss yooooouuu! ?	positive::desirable-element::shifted::spelling
-815	thelwall	1135	1	Bob Bryar "booted" from My Chemical Romance? Oh that's a real nice way to put it COCKBAGS. I always liked Rocksound better anyway @AltPress	negative::strong::spelling::comparative::world-knowledge
+814	thelwall	1133	1	@sierrajohaha cousin!!! Come back and party w us! I miss yooooouuu! ?	positive::desirable-element::shifter::non-standard spelling
+815	thelwall	1135	1	Bob Bryar "booted" from My Chemical Romance? Oh that's a real nice way to put it COCKBAGS. I always liked Rocksound better anyway @AltPress	negative::strong::non-standard spelling::comparative::world-knowledge
 816	thelwall	1136	1	The 'Miss Me Yet?' billboard. My answer would be absolutely not. http://ow.ly/16oVf	world-knowledge
-817	thelwall	1146	1	Cold burrrrr	spelling::negative
-818	thelwall	1158	1	why do Hong Kong people like to have their air cons on SUPERCOLD!?!?! man, i need some socks or something!!!!	spelling::negative::amplified
-819	thelwall	1182	3	Chilli but it feel so darn good... Headed to this party and then directly to the airport... No sleep till tomorrow night.... Let's Go!!	positive::amplified::spelling
-820	thelwall	1189	1	just had the nastiest fall. #wth i feel like i might have broken a bone.	spelling::negative::desirable-element::comparative
-821	thelwall	1190	1	@cupcakes yeah, she's only 3 and she was like wtf!?!? haha. I took it off and she was fine.	spelling::negative::strong
+817	thelwall	1146	1	Cold burrrrr	non-standard spelling::negative
+818	thelwall	1158	1	why do Hong Kong people like to have their air cons on SUPERCOLD!?!?! man, i need some socks or something!!!!	non-standard spelling::negative::amplified
+819	thelwall	1182	3	Chilli but it feel so darn good... Headed to this party and then directly to the airport... No sleep till tomorrow night.... Let's Go!!	positive::amplified::non-standard spelling
+820	thelwall	1189	1	just had the nastiest fall. #wth i feel like i might have broken a bone.	non-standard spelling::negative::desirable-element::comparative
+821	thelwall	1190	1	@cupcakes yeah, she's only 3 and she was like wtf!?!? haha. I took it off and she was fine.	non-standard spelling::negative::strong
 822	thelwall	1194	1	bad weather on holiday X( X( have nothing but to sleep in a warm room with a comfortable bad..	emoji::negative::mixed
-823	thelwall	1195	1	RT @AdamRoss3: @HarrisonGuy I know u got my mufuckin text! I did	spelling::negative::strong
-824	thelwall	1196	1	RT @MsJaNeeX: LOL RT @myluleta: and by the way I just heard the best quote ever "People plan and God laughs" AHAHAHAHAHAHAHA snaps!	positive::strong::comparative::spelling
+823	thelwall	1195	1	RT @AdamRoss3: @HarrisonGuy I know u got my mufuckin text! I did	non-standard spelling::negative::strong
+824	thelwall	1196	1	RT @MsJaNeeX: LOL RT @myluleta: and by the way I just heard the best quote ever "People plan and God laughs" AHAHAHAHAHAHAHA snaps!	positive::strong::comparative::non-standard spelling
 825	thelwall	1197	2	I refuse to get high blood pressure, wrinkly my face, or get hoarse for you. Just watch my footwork. Love always, ~felicia~	negative::desirable-element::amplified
-826	thelwall	1202	1	@Nikekaws OH EM GEEE!!! why do i have to be a bean head looser!!!?	spelling::negative::amplified
-827	thelwall	1203	2	@Krissywhittles that album isnt my favorite i like his old stuff but ir still isnt bad. i stiill love him	mixed::spelling
+826	thelwall	1202	1	@Nikekaws OH EM GEEE!!! why do i have to be a bean head looser!!!?	non-standard spelling::negative::amplified
+827	thelwall	1203	2	@Krissywhittles that album isnt my favorite i like his old stuff but ir still isnt bad. i stiill love him	mixed::non-standard spelling
 828	thelwall	1215	1	Sick as a dog but still made something to smoke my bud out of.. http://twitgoo.com/e0dfr	negative::mixed::strong
 829	thelwall	1222	1	So bored,waitin on my kiddos 2 get home from school. I'm still very sleepy but had ta get up.My Sam & Edwin stop By 2day good luck on house?	negative::amplified
-830	thelwall	1225	1	@godsgirl8494 I wouldn't want to live forever. Even though I would meet new people, I would lose everyone in my life.. It would be unbarable	spelling::non-factual speech::negated::positive::negative
-831	thelwall	1226	1	@imisspekkle I haven't heard from you or seen you on for a long time!! I miss you	positive::desirable-element::shifted::negated
-832	thelwall	1229	3	Very productuve right now finished an assignment in bout a hour which means I'm on a roll	positive::set-phrase::spelling
-833	thelwall	1232	2	#AtTheEndOfTheDay ITSS ME AGAINST DA WORLDD SO I SCREAM FTWW HIGH & PROUDD!!!	spelling::mixed
+830	thelwall	1225	1	@godsgirl8494 I wouldn't want to live forever. Even though I would meet new people, I would lose everyone in my life.. It would be unbarable	non-standard spelling::modality::negated::positive::negative
+831	thelwall	1226	1	@imisspekkle I haven't heard from you or seen you on for a long time!! I miss you	positive::desirable-element::shifter::negated
+832	thelwall	1229	3	Very productuve right now finished an assignment in bout a hour which means I'm on a roll	positive::idioms::non-standard spelling
+833	thelwall	1232	2	#AtTheEndOfTheDay ITSS ME AGAINST DA WORLDD SO I SCREAM FTWW HIGH & PROUDD!!!	non-standard spelling::mixed
 834	thelwall	1239	1	Awkward: Ranger called me William's "Daddy," & I replied "I'm just his special friend." Seriously Kendal, "babysitter" is much less creepy.	negative
-835	thelwall	1262	1	Aaarrrgh really wanna pull my decks out the garage but I ain't got n e needles n haven't bought vinyl for bout 6years. Me need cd decks pls	spelling::desirable-element::positive::negated
+835	thelwall	1262	1	Aaarrrgh really wanna pull my decks out the garage but I ain't got n e needles n haven't bought vinyl for bout 6years. Me need cd decks pls	non-standard spelling::desirable-element::positive::negated

@@ -4,6 +4,10 @@ import numpy as np
 from tabulate import tabulate
 
 def import_challenge_dataset(dataset_file):
+    """
+    Imports the annotated challenge dataset and keeps annotations
+
+    """
     idxs = []
     datasets = []
     original_idxs = []
@@ -39,11 +43,8 @@ def import_prediction(prediction_file):
     return [int(l.strip()) for l in open(prediction_file)]
 
 def main():
-    pass
-
-if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("-challenge_dataset", default="challenge_dataset.txt")
+    parser.add_argument("-challenge_dataset", default="annotated.txt")
     parser.add_argument("predictions", nargs="+")
     args = parser.parse_args()
 
@@ -63,11 +64,9 @@ if __name__ == "__main__":
         preds.append(import_prediction(pred_file))
 
 
-    # labels = ['amplified', 'comparative', 'desirable-element', 'difficult-vocab', 'emoji', 'mixed', 'morphology', 'negated', 'negative', 'no-sentiment', 'non-factual speech', 'positive', 'reduced', 'sarcasm/irony', 'set-phrase', 'shifted', 'spelling', 'strong', 'world-knowledge']
+    labels = ['positive', 'negative', 'mixed', 'no-sentiment', 'non-standard spelling', 'desirable-element', 'idioms', 'strong', 'negated', 'world-knowledge', 'amplified', 'comparative', 'sarcasm/irony', 'shifter', 'emoji', 'modality', 'morphology', 'reducer', 'difficult-vocab']
 
-    labels = ['positive', 'negative', 'mixed', 'no-sentiment', 'spelling', 'desirable-element', 'set-phrase', 'strong', 'negated', 'world-knowledge', 'amplified', 'comparative', 'sarcasm/irony', 'shifted', 'emoji', 'non-factual speech', 'morphology', 'reduced', 'difficult-vocab']
-
-    short_labels = ['model', 'pos', 'neg', 'mixed', 'no-sent', 'spelling', 'desirable', 'set-phr.', 'strong', 'negated', 'w-know', 'amp.', 'comp.', 'irony', 'shift', 'emoji', 'modal', 'morph.', 'reduced', 'vocab']
+    short_labels = ['model', 'pos', 'neg', 'mixed', 'no-sent', 'spelling', 'desirable', 'idioms', 'strong', 'negated', 'w-know', 'amp.', 'comp.', 'irony', 'shift', 'emoji', 'modal', 'morph.', 'red.', 'vocab']
 
 
 
@@ -77,7 +76,7 @@ if __name__ == "__main__":
         model_results.append(args.predictions[i])
         for label in labels:
             idxs = sorted(annotation_dict[label])
-            #print(idxs)
+
             gold = np.array(golds)[idxs]
             pred = np.array(model)[idxs]
             acc = accuracy_score(gold, pred)
@@ -87,9 +86,6 @@ if __name__ == "__main__":
     print(tabulate(results, headers=short_labels, floatfmt=".1f"))
 
 
-        #results.append([ model_results])
+if __name__ == "__main__":
 
-
-
-
-   # main()
+   main()
