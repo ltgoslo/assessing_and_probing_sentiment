@@ -10,17 +10,18 @@ Jeremy Barnes, Lilja Øvrelid, and Erik Velldal. 2019. [**Sentiment analysis is 
 
 If you use the code for academic research, please cite the paper in question:
 ```
-@inproceedings{barnes-etal2019-challenges,
-  author =  "Barnes, Jeremy
-        and {\O}vrelid, Lilja
-        and Velldal, Erik",
-  title =   Sentiment analysis is not solved!: Assessing and probing sentiment classification",
-  booktitle =   "Proceedings of the 2019 {ACL} Workshop {B}lackbox{NLP}: Analyzing and Interpreting Neural Networks for {NLP}",
-  year =    "2019",
-  publisher =   "Association for Computational Linguistics",
-  pages =   "To Appear",
-  location =    "Florence, Italy",
-  url =     "To Appear"
+@inproceedings{barnes-etal-2019-sentiment,
+    title = "Sentiment Analysis Is Not Solved! Assessing and Probing Sentiment Classification",
+    author = "Barnes, Jeremy  and
+      {\O}vrelid, Lilja  and
+      Velldal, Erik",
+    booktitle = "Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP",
+    month = aug,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W19-4802",
+    pages = "12--23"
 }
 ```
 
